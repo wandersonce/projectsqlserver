@@ -1,0 +1,9 @@
+1	Davolio	Nancy	507 - 20th Ave. E.Apt. 2A	Vancouver	BC	V7M 8T9	6045559857	12/8/1948 
+2	Fuller	Andrew	908 W. Capital Way	Burnaby	BC	V5V 8H9	6045559482	2/19/1952 
+3	Leverling	Janet	722 Moss Bay Blvd.	Richmond	BC	V2K 8Y7	6045553412	8/30/1963 
+4	Peacock	Margaret	4110 Old Vancouver Rd.	Vancouver	BC	V4D 8P8	6045558122	9/19/1937 
+5	Buchanan	Steven	14 Garrett Hill	New Westminster	BC	V1G 8J7	6045554848	3/4/1955 
+6	Suyama	Michael	Coventry House Miner Rd.	New Westminster	BC	V2R 7J4	6045557773	7/2/1963 
+7	King	Robert	Edgeham Hollow Winchester Way	New Westminster	BC	V15 9S3	6045555598	5/29/1960 
+8	Callahan	Laura	4726 - 11th Ave. N.E.	Vancouver	BC	V7H 5Z6	6045551189	1/9/1958 
+9	Dodsworth	Anne	7 Houndstooth Rd.	New Westminster	BC	V2S 7L6	6045554444	1/27/1966 

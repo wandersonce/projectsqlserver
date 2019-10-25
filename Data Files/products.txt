@@ -1,0 +1,77 @@
+1	1	Chai	Dharamsala Tea	10 boxes x 20 bags	18.00	39	0	10
+2	1	Chang	Tibetan Barley Beer	24 - 12 oz bottles	19.00	17	40	25
+3	1	Aniseed Syrup	Licorice Syrup	12 - 550 ml bottles	10.00	13	70	25
+4	2	Chef Anton's Cajun Seasoning	Chef Anton's Cajun Seasoning	48 - 6 oz jars	22.00	53	0	0
+5	2	Chef Anton's Gumbo Mix	Chef Anton's Gumbo Mix	36 boxes	21.35	0	0	0
+6	3	Grandma's Boysenberry Spread	Grandma's Boysenberry Spread	12 - 8 oz jars	25.00	120	0	25
+7	3	Uncle Bob's Organic Dried Pears	Uncle Bob's Organic Dried Pears	12 - 1 lb pkgs.	30.00	15	0	10
+8	3	Northwoods Cranberry Sauce	Northwoods Cranberry Sauce	12 - 12 oz jars	40.00	6	0	0
+9	4	Mishi Kobe Niku	Mishi Kobe Beef	18 - 500 g pkgs.	97.00	29	0	0
+10	4	Ikura	Fish Roe	12 - 200 ml jars	31.00	31	0	0
+11	5	Queso Cabrales	Cabrales Cheese	1 kg pkg.	21.00	22	30	30
+12	5	Queso Manchego La Pastora	Manchego La Pastora Cheese	10 - 500 g pkgs.	38.00	86	0	0
+13	6	Konbu	Kelp Seaweed	2 kg box	6.00	24	0	5
+14	6	Tofu	Bean Curd	40 - 100 g pkgs.	23.25	35	0	0
+15	6	Genen Shouyu	Lite Sodium Soy Sauce	24 - 250 ml bottles	15.50	39	0	5
+16	7	Pavlova	Pavlova Meringue Dessert	32 - 500 g boxes	17.45	29	0	10
+17	7	Alice Mutton	Alice Springs Lamb	20 - 1 kg tins	39.00	0	0	0
+18	7	Carnarvon Tigers	Carnarvon Tiger Prawns	16 kg pkg.	62.50	42	0	0
+19	8	Teatime Chocolate Biscuits	Teatime Chocolate Biscuits	10 boxes x 12 pieces	9.20	25	0	5
+20	8	Sir Rodney's Marmalade	Sir Rodney's Marmalade	30 gift boxes	81.00	40	0	0
+21	8	Sir Rodney's Scones	Sir Rodney's Scones	24 pkgs. x 4 pieces	10.00	3	40	5
+22	9	Gustaf's Knäckebröd	Gustaf's Rye Crisp Bread	24 - 500 g pkgs.	21.00	104	0	25
+23	9	Tunnbröd	Thin Bread	12 - 250 g pkgs.	9.00	61	0	25
+24	10	Guaraná Fantástica	Guaraná Fantástica Soft Drink	12 - 355 ml cans	4.50	20	0	0
+25	11	NuNuCa Nuß-Nougat-Creme	NuNuCa Chocolate-Nut Spread	20 - 450 g glasses	14.00	76	0	30
+26	11	Gumbär Gummibärchen	Gumbär Gummy Bears	100 - 250 g bags	31.23	15	0	0
+27	11	Schoggi Schokolade	Schoggi Chocolate	100 - 100 g pieces	43.90	49	0	30
+28	12	Rössle Sauerkraut	Rössle Sauerkraut	25 - 825 g cans	45.60	26	0	0
+29	12	Thüringer Rostbratwurst	Thüringer Sausage	50 bags x 30 sausgs.	123.79	0	0	0
+30	13	Nord-Ost Matjeshering	Nord-Ost White Herring	10 - 200 g glasses	25.89	10	0	15
+31	14	Gorgonzola Telino	Gorgonzola Telino	12 - 100 g pkgs	12.50	0	70	20
+32	14	Mascarpone Fabioli	Mascarpone Fabioli	24 - 200 g pkgs.	32.00	9	40	25
+33	15	Geitost	Goat Cheese	500 g	2.50	112	0	20
+34	15	Sasquatch Ale	Sasquatch Ale	24 - 12 oz bottles	14.00	111	0	15
+35	6	Steeleye Stout	Steeleye Stout	24 - 12 oz bottles	18.00	20	0	15
+36	7	Inlagd Sill	Pickled Herring	24 - 250 g  jars	19.00	112	0	20
+37	7	Gravad lax	Gravad Lox	12 - 500 g pkgs.	26.00	11	50	25
+38	8	Côte de Blaye	Côte de Blaye (Red Bordeaux wine)	12 - 75 cl bottles	263.50	17	0	15
+39	8	Chartreuse verte	Green Chartreuse (Liqueur)	750 cc per bottle	18.00	69	0	5
+40	9	Boston Crab Meat	Boston Crab Meat	24 - 4 oz tins	18.40	123	0	30
+41	9	Jack's New England Clam Chowder	Jack's New England Clam Chowder	12 - 12 oz cans	9.65	85	0	10
+42	10	Singaporean Hokkien Fried Mee	Singapore Noodles	32 - 1 kg pkgs.	14.00	26	0	0
+43	10	Ipoh Coffee	Malaysian Coffee	16 - 500 g tins	46.00	17	10	25
+44	10	Gula Malacca	Malacca Dark Brown Sugar	20 - 2 kg bags	19.45	27	0	15
+45	10	Røgede sild	Smoked Herring	1k pkg.	9.50	5	70	15
+46	11	Spegesild	Salt Herring	4 - 450 g glasses	12.00	95	0	0
+47	11	Zaanse koeken	Zaanse Cookies	10 - 4 oz boxes	9.50	36	0	0
+48	11	Chocolade	Dutch Chocolate	10 pkgs.	12.75	15	70	25
+49	12	Maxilaku	Licorice	24 - 50 g pkgs.	20.00	10	60	15
+50	12	Valkoinen suklaa	White Chocolate	12 - 100 g bars	16.25	65	0	30
+51	14	Manjimup Dried Apples	Manjimup Dried Apples	50 - 300 g pkgs.	53.00	20	0	10
+52	14	Filo Mix	Mix for Greek Filo Dough	16 - 2 kg boxes	7.00	38	0	25
+53	14	Perth Pasties	Perth Meat Pies	48 pieces	32.80	0	0	0
+54	15	Tourtière	Pork Pie	16 pies	7.45	21	0	10
+55	15	Pâté chinois	Shepard's Pie	24 boxes x 2 pies	24.00	115	0	20
+56	15	Gnocchi di nonna Alice	Gramma Alice's Dumplings	24 - 250 g pkgs.	38.00	21	10	30
+57	6	Ravioli Angelo	Angelo Ravioli	24 - 250 g pkgs.	19.50	36	0	20
+58	7	Escargots de Bourgogne	Escargots from Burgundy	24 pieces	13.25	62	0	20
+59	8	Raclette Courdavault	Courdavault Raclette Cheese	5 kg pkg.	55.00	79	0	0
+60	8	Camembert Pierrot	Pierrot Camembert	15 - 300 g rounds	34.00	19	0	0
+61	9	Sirop d'érable	Maple Syrup	24 - 500 ml bottles	28.50	113	0	25
+62	9	Tarte au sucre	Sugar Pie	48 pies	49.30	17	0	0
+63	7	Vegie-spread	Vegetable Sandwich Spread	15 - 625 g jars	43.90	24	0	5
+64	12	Wimmers gute Semmelknödel	Wimmer's Delicious Bread Dumplings	20 bags x 4 pieces	33.25	22	80	30
+65	2	Louisiana Fiery Hot Pepper Sauce	Louisiana Fiery Hot Pepper Sauce	32 - 8 oz bottles	21.05	76	0	0
+66	2	Louisiana Hot Spiced Okra	Louisiana Hot Spiced Okra	24 - 8 oz jars	17.00	4	100	20
+67	6	Laughing Lumberjack Lager	Laughing Lumberjack Lager	24 - 12 oz bottles	14.00	52	0	10
+68	8	Scottish Longbreads	Scottish Longbreads	10 boxes x 8 pieces	12.50	6	10	15
+69	15	Gudbrandsdalsost	Gudbrandsdals Cheese	10 kg pkg.	36.00	26	0	15
+70	7	Outback Lager	Outback Lager	24 - 355 ml bottles	15.00	15	10	30
+71	15	Fløtemysost	Fløtemys Cream Cheese	10 - 500 g pkgs.	21.50	26	0	0
+72	14	Mozzarella di Giovanni	Giovanni's Mozzarella	24 - 200 g pkgs.	34.80	14	0	0
+73	7	Röd Kaviar	Red Caviar	24 - 150 g jars	15.00	101	0	5
+74	4	Longlife Tofu	Longlife Bean Curd	5 kg pkg.	10.00	4	20	5
+75	12	Rhönbräu Klosterbier	Rhönbräu Beer	24 - 0.5 l bottles	7.75	125	0	25
+76	12	Lakkalikööri	Cloudberry Liqueur	500 ml	18.00	57	0	20
+77	12	Original Frankfurter grüne Soße	Original Frankfurter Green Sauce	12 boxes	13.00	32	0	15

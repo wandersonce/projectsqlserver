@@ -1,0 +1,1078 @@
+10000	FRANS	6	Franchi S.p.A.	Via Monte Bianco 34	Torino		10100	Italy	3	5-10-2001	6-7-2001	5-15-2001	4.45
+10001	MEREP	8	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	3	5-13-2001	6-10-2001	5-23-2001	79.45
+10002	FOLKO	3	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	3	5-14-2001	6-11-2001	5-17-2001	36.18
+10003	SIMOB	8	Simons bistro	Vinbæltet 34	Kobenhavn		1734	Denmark	1	5-15-2001	6-12-2001	5-24-2001	18.59
+10004	VAFFE	3	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	2	5-16-2001	6-13-2001	5-20-2001	20.12
+10005	WARTH	5	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	3	5-20-2001	6-17-2001	5-24-2001	4.13
+10006	FRANS	8	Franchi S.p.A.	Via Monte Bianco 34	Torino		10100	Italy	1	5-21-2001	6-18-2001	5-24-2001	3.62
+10007	MORGK	4	Morgenstern Gesundkost	Heerstr. 22	Leipzig		4179	Germany	3	5-22-2001	6-19-2001	6-11-2001	36.19
+10008	FURIB	3	Furia Bacalhau e Frutos do Mar	Jardim das rosas n. 32	Lisboa		1675	Portugal	1	5-23-2001	6-20-2001	5-29-2001	74.22
+10009	SEVES	8	Seven Seas Imports	90 Wadhurst Rd.	London		OX15-4NB	UK	1	5-24-2001	6-21-2001	5-31-2001	49.21
+10010	SIMOB	8	Simons bistro	Vinbæltet 34	Kobenhavn		1734	Denmark	1	5-28-2001	6-25-2001	5-30-2001	3.01
+10011	WELLI	6	Wellington Importadora	Rua do Mercado, 12	Resende	SP	08737-363	Brazil	3	5-29-2001	6-26-2001	6-3-2001	31.54
+10012	LINOD	6	LINO-Delicateses	Ave. 5-de Mayo Porlamar	I. de Margarita	Nueva Esparta	4980	Venezuela	1	5-30-2001	6-27-2001	6-3-2001	102.59
+10013	RICSU	3	Richter Supermarkt	Starenweg 5	Geneve		1204	Switzerland	3	5-31-2001	6-28-2001	6-7-2001	50.87
+10014	GROSR	4	GROSELLA-Restaurante	5ª Ave. Los Palos Grandes	Caracas	DF	1081	Venezuela	3	6-3-2001	7-1-2001	6-12-2001	17.67
+10015	PICCO	6	Piccolo und mehr	Geislweg 14	Salzburg		5020	Austria	1	6-5-2001	7-3-2001	6-20-2001	22.10
+10016	FOLIG	3	Folies gourmandes	184, chaussee de Tournai	Lille		59000	France	2	6-6-2001	7-4-2001	7-11-2001	113.01
+10017	BLONP	4	Blondel pere et fils	24, place Kleber	Strasbourg		67000	France	1	6-7-2001	7-5-2001	6-10-2001	111.81
+10018	RATTC	4	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	1	6-10-2001	7-8-2001	7-5-2001	65.46
+10019	MAGAA	6	Magazzini Alimentari Riuniti	Via Ludovico il Moro 22	Bergamo		24100	Italy	3	6-11-2001	7-9-2001	6-20-2001	2.42
+10020	VINET	2	Vins et alcools Chevalier	59-rue de l'Abbaye	Reims		51100	France	1	6-13-2001	7-11-2001	6-26-2001	27.51
+10021	ERNSH	7	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	3	6-14-2001	7-12-2001	7-2-2001	75.17
+10022	LAMAI	1	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	1	6-17-2001	7-15-2001	7-22-2001	46.00
+10023	TOMSP	3	Toms Spezialitaten	Luisenstr. 48	Munster		44087	Germany	1	6-18-2001	7-16-2001	6-28-2001	66.87
+10024	RATTC	4	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	1	6-19-2001	7-17-2001	6-21-2001	5.19
+10025	RATTC	4	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	3	6-21-2001	7-19-2001	6-25-2001	3.32
+10026	MORGK	5	Morgenstern Gesundkost	Heerstr. 22	Leipzig		4179	Germany	3	6-24-2001	7-22-2001	6-26-2001	1.34
+10027	ERNSH	7	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	3	6-25-2001	7-23-2001	7-2-2001	100.13
+10028	ANTON	2	Antonio Moreno Taqueria	Mataderos  2312	Mexico D.F.		5023	Mexico	1	6-26-2001	7-24-2001	7-31-2001	46.86
+10029	SANTG	3	Sante Gourmet	Erling Skakkes gate 78	Stavern		4110	Norway	2	6-27-2001	7-25-2001	7-5-2001	6.72
+10030	LILAS	1	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	3	7-1-2001	7-29-2001	7-8-2001	26.49
+10031	SUPRD	1	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	3	7-2-2001	7-16-2001	7-9-2001	7.03
+10032	BOLID	8	Bolido Comidas preparadas	C/ Araquil, 67	Madrid		28023	Spain	3	7-3-2001	7-31-2001	7-9-2001	0.26
+10033	OTTIK	3	Ottilies Kaseladen	Mehrheimerstr. 369	Koln		50739	Germany	3	7-4-2001	8-15-2001	7-8-2001	8.52
+10034	EASTC	4	Eastern Connection	35-King George	London		WX3-6FW	UK	2	7-5-2001	8-2-2001	7-17-2001	64.17
+10035	HILAA	1	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	3	7-9-2001	8-6-2001	7-17-2001	192.55
+10036	CENTC	9	Centro comercial Moctezuma	Sierras de Granada 9993	Mexico D.F.		5022	Mexico	2	7-10-2001	8-7-2001	7-17-2001	17.00
+10037	VAFFE	2	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	3	7-11-2001	8-8-2001	7-17-2001	29.63
+10038	OLDWO	1	Old World Delicatessen	2743-Bering St.	Anchorage	AK	99508	USA	3	7-12-2001	8-9-2001	7-15-2001	37.37
+10039	MEREP	1	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	2	7-15-2001	8-12-2001	7-18-2001	7.37
+10040	WHITC	3	White Clover Markets	1029-- 12th Ave. S.	Seattle	WA	98124	USA	3	7-17-2001	8-14-2001	7-26-2001	51.88
+10041	HILAA	2	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	2	7-18-2001	8-15-2001	7-31-2001	2.54
+10042	FOLKO	9	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	3	7-19-2001	8-16-2001	8-13-2001	106.03
+10043	LINOD	9	LINO-Delicateses	Ave. 5-de Mayo Porlamar	I. de Margarita	Nueva Esparta	4980	Venezuela	2	7-22-2001	8-19-2001	7-31-2001	166.19
+10044	ANTON	3	Antonio Moreno Taqueria	Mataderos  2312	Mexico D.F.		5023	Mexico	3	7-23-2001	8-20-2001	8-1-2001	67.61
+10045	BERGS	9	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	1	7-25-2001	9-5-2001	7-31-2001	22.42
+10046	SANTG	3	Sante Gourmet	Erling Skakkes gate 78	Stavern		4110	Norway	3	7-26-2001	8-23-2001	8-2-2001	16.19
+10047	MORGK	4	Morgenstern Gesundkost	Heerstr. 22	Leipzig		4179	Germany	1	7-29-2001	8-26-2001	8-1-2001	17.70
+10048	HILAA	7	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	1	7-30-2001	8-27-2001	8-21-2001	61.83
+10049	TOMSP	5	Toms Spezialitaten	Luisenstr. 48	Munster		44087	Germany	2	7-31-2001	8-28-2001	8-5-2001	4.80
+10050	BOLID	4	Bolido Comidas preparadas	C/ Araquil, 67	Madrid		28023	Spain	3	8-2-2001	8-30-2001	8-8-2001	48.64
+10051	FOLKO	5	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	3	8-5-2001	9-2-2001	8-23-2001	21.73
+10052	SAVEA	7	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	2	8-6-2001	9-17-2001	8-8-2001	181.51
+10053	WARTH	4	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	1	8-7-2001	9-4-2001	8-9-2001	62.62
+10054	RICAR	4	Ricardo Adocicados	Av. Copacabana, 267	Rio de Janeiro	RJ	02389-890	Brazil	2	8-8-2001	9-5-2001	8-13-2001	52.39
+10055	BLONP	3	Blondel pere et fils	24, place Kleber	Strasbourg		67000	France	1	8-12-2001	9-9-2001	9-16-2001	135.33
+10056	LILAS	4	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	3	8-13-2001	9-10-2001	8-21-2001	20.09
+10057	THECR	4	The Cracker Box	55-Grizzly Peak Rd.	Butte	MT	59801	USA	2	8-14-2001	9-25-2001	8-23-2001	4.03
+10058	HUNGO	3	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	1	8-15-2001	9-26-2001	8-16-2001	101.66
+10059	LILAS	2	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	1	8-16-2001	9-13-2001	9-20-2001	22.45
+10060	SEVES	4	Seven Seas Imports	90 Wadhurst Rd.	London		OX15-4NB	UK	2	8-20-2001	9-3-2001	9-13-2001	101.91
+10061	EASTC	1	Eastern Connection	35-King George	London		WX3-6FW	UK	2	8-21-2001	9-18-2001	8-23-2001	4.34
+10062	ALFKI	5	Alfred's Futterkiste	Obere Str. 57	Berlin		12209	Germany	2	8-22-2001	9-19-2001	8-29-2001	47.22
+10063	HUNGO	4	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	2	8-23-2001	9-20-2001	9-2-2001	15.33
+10064	VAFFE	5	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	2	8-26-2001	9-23-2001	9-13-2001	10.27
+10065	SAVEA	1	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	8-28-2001	9-25-2001	9-3-2001	45.03
+10066	WARTH	4	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	2	8-29-2001	10-10-2001	9-2-2001	7.31
+10067	FRANR	9	France restauration	54, rue Royale	Nantes		44000	France	2	8-30-2001	9-27-2001	9-3-2001	26.31
+10068	PICCO	1	Piccolo und mehr	Geislweg 14	Salzburg		5020	Austria	2	9-2-2001	9-30-2001	9-9-2001	19.15
+10069	LAMAI	3	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	2	9-3-2001	10-1-2001	9-6-2001	25.45
+10070	LAMAI	2	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	2	9-5-2001	10-3-2001	9-13-2001	47.75
+10071	HUNGO	7	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	1	9-6-2001	10-4-2001	9-10-2001	195.31
+10072	FOLKO	1	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	2	9-9-2001	9-23-2001	9-16-2001	177.24
+10073	FOLKO	2	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	2	9-10-2001	10-8-2001	9-19-2001	97.25
+10074	HUNGO	4	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	1	9-11-2001	10-9-2001	9-18-2001	52.37
+10075	CHOPS	2	Chop-suey Chinese	Hauptstr. 31	Bern		3012	Switzerland	1	9-13-2001	10-11-2001	9-20-2001	29.34
+10076	SPECD	2	Specialites du monde	25, rue Lauriston	Paris		75016	France	2	9-16-2001	10-14-2001	9-23-2001	0.88
+10077	LAMAI	2	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	1	9-17-2001	10-15-2001	9-23-2001	28.21
+10078	RICSU	8	Richter Supermarkt	Starenweg 5	Geneve		1204	Switzerland	2	9-18-2001	10-16-2001	9-27-2001	69.82
+10079	SUPRD	3	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	3	9-19-2001	10-17-2001	9-27-2001	52.11
+10080	BOTTM	4	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	2	9-23-2001	10-21-2001	9-26-2001	35.37
+10081	CHOPS	6	Chop-suey Chinese	Hauptstr. 31	Bern		3012	Switzerland	2	9-24-2001	10-22-2001	10-9-2001	21.16
+10082	GODOS	6	Godos Cocina Tipica	C/ Romero, 33	Sevilla		41101	Spain	2	9-25-2001	10-23-2001	10-4-2001	2.97
+10083	SUPRD	5	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	1	9-26-2001	10-24-2001	10-1-2001	78.84
+10084	LAMAI	4	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	2	9-27-2001	10-25-2001	10-3-2001	77.40
+10085	SANTG	8	Sante Gourmet	Erling Skakkes gate 78	Stavern		4110	Norway	2	10-1-2001	10-29-2001	10-3-2001	20.78
+10086	FRANS	8	Franchi S.p.A.	Via Monte Bianco 34	Torino		10100	Italy	2	10-2-2001	10-30-2001	10-4-2001	178.17
+10087	MEREP	4	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	1	10-3-2001	10-31-2001	10-4-2001	79.65
+10088	LINOD	3	LINO-Delicateses	Ave. 5-de Mayo Porlamar	I. de Margarita	Nueva Esparta	4980	Venezuela	2	10-4-2001	11-1-2001	10-8-2001	4.79
+10089	GALED	4	Galeria del gastronomo	Rambla de Cataluna, 23	Barcelona		8022	Spain	2	10-7-2001	11-4-2001	10-14-2001	17.40
+10090	BSBEV	4	B's Beverages	Fauntleroy Circus	London		EC2-5NT	UK	1	10-9-2001	11-6-2001	10-14-2001	79.64
+10091	RICAR	8	Ricardo Adocicados	Av. Copacabana, 267	Rio de Janeiro	RJ	02389-890	Brazil	2	10-10-2001	11-7-2001	11-8-2001	995.33
+10092	ERNSH	8	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	2	10-11-2001	11-8-2001	10-21-2001	16.46
+10093	QUICK	7	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	2	10-14-2001	11-11-2001	10-22-2001	263.66
+10094	RATTC	3	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	2	10-15-2001	10-29-2001	10-17-2001	135.23
+10095	LAZYK	3	Lazy K Kountry Store	12-Orchestra Terrace	Walla Walla	WA	99362	USA	3	10-17-2001	11-14-2001	10-18-2001	2.58
+10096	RICSU	2	Richter Supermarkt	Starenweg 5	Geneve		1204	Switzerland	2	10-18-2001	11-15-2001	10-28-2001	468.02
+10097	EASTC	1	Eastern Connection	35-King George	London		WX3-6FW	UK	2	10-21-2001	11-18-2001	11-22-2001	390.23
+10098	SAVEA	1	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	10-22-2001	11-19-2001	10-28-2001	176.70
+10099	MAGAA	8	Magazzini Alimentari Riuniti	Via Ludovico il Moro 22	Bergamo		24100	Italy	3	10-23-2001	11-20-2001	10-30-2001	77.20
+10100	DUMON	8	Du monde entier	67, rue des Cinquante Otages	Nantes		44000	France	3	10-25-2001	11-22-2001	11-1-2001	157.76
+10101	ANTON	8	Antonio Moreno Taqueria	Mataderos  2312	Mexico D.F.		5023	Mexico	2	10-28-2001	11-25-2001	11-1-2001	1.34
+10102	BLAUS	3	Blauer See Delikatessen	Forsterstr. 57	Mannheim		68306	Germany	2	10-29-2001	11-26-2001	11-29-2001	116.07
+10103	FOLKO	8	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	3	10-30-2001	11-27-2001	11-28-2001	88.17
+10104	SUPRD	4	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	2	10-31-2001	11-28-2001	11-5-2001	23.74
+10105	SUPRD	4	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	3	11-4-2001	12-2-2001	12-3-2001	186.38
+10106	PRINI	5	Princesa Isabel Vinhos	Estrada da saúde n. 58	Lisboa		1756	Portugal	2	11-5-2001	12-3-2001	11-13-2001	21.71
+10107	WARTH	6	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	1	11-6-2001	12-4-2001	12-2-2001	23.76
+10108	FRANK	3	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	3	11-7-2001	12-5-2001	11-8-2001	32.04
+10109	QUICK	3	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	2	11-8-2001	12-6-2001	11-15-2001	27.03
+10110	GOURL	3	Gourmet Lanchonetes	Av. Brasil, 442	Campinas	SP	04876-786	Brazil	2	11-12-2001	12-10-2001	11-19-2001	68.89
+10111	RATTC	9	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	2	11-13-2001	12-11-2001	11-20-2001	7.10
+10112	DRACD	1	Drachenblut Delikatessen	Walserweg 21	Aachen		52066	Germany	2	11-14-2001	11-28-2001	12-12-2001	1.48
+10113	FURIB	4	Furia Bacalhau e Frutos do Mar	Jardim das rosas n. 32	Lisboa		1675	Portugal	3	11-15-2001	12-13-2001	11-21-2001	52.65
+10114	GALED	4	Galeria del gastronomo	Rambla de Cataluna, 23	Barcelona		8022	Spain	3	11-18-2001	12-16-2001	11-22-2001	10.55
+10115	OCEAN	4	Oceano Atlantico Ltda.	Ing. Gustavo Moncada 8585-Piso 20-A	Buenos Aires		1010	Argentina	3	11-20-2001	12-18-2001	12-2-2001	24.25
+10116	EASTC	4	Eastern Connection	35-King George	London		WX3-6FW	UK	3	11-21-2001	12-19-2001	11-29-2001	1.80
+10117	TRADH	8	Tradicão Hipermercados	Av. Inês de Castro, 414	São Paulo	SP	05634-030	Brazil	2	11-22-2001	12-20-2001	11-29-2001	34.91
+10118	WHITC	5	White Clover Markets	1029-- 12th Ave. S.	Seattle	WA	98124	USA	3	11-25-2001	12-9-2001	11-28-2001	173.30
+10119	FURIB	6	Furia Bacalhau e Frutos do Mar	Jardim das rosas n. 32	Lisboa		1675	Portugal	2	11-26-2001	12-24-2001	12-3-2001	11.12
+10120	LAZYK	6	Lazy K Kountry Store	12-Orchestra Terrace	Walla Walla	WA	99362	USA	1	11-28-2001	12-26-2001	1-1-2002	5.42
+10121	MEREP	1	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	3	11-29-2001	12-27-2001	12-6-2001	112.83
+10122	SANTG	6	Sante Gourmet	Erling Skakkes gate 78	Stavern		4110	Norway	1	12-2-2001	12-30-2001	12-4-2001	0.54
+10123	VAFFE	4	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	3	12-3-2001	12-31-2001	12-12-2001	66.89
+10124	HUNGO	8	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	2	12-4-2001	1-1-2002	12-9-2001	46.53
+10125	REGGC	1	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	1	12-6-2001	1-3-2002	12-12-2001	11.91
+10126	VICTE	4	Victuailles en stock	2, rue du Commerce	Lyon		69004	France	1	12-9-2001	1-6-2002	12-19-2001	23.46
+10127	WOLZA	4	Wolski Zajazd	ul. Filtrowa 68	Warszawa		01-012	Poland	2	12-10-2001	1-7-2002	12-18-2001	15.57
+10128	BLONP	3	Blondel pere et fils	24, place Kleber	Strasbourg		67000	France	2	12-11-2001	12-25-2001	12-20-2001	51.14
+10129	REGGC	8	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	1	12-12-2001	1-9-2002	12-13-2001	27.44
+10130	HUNGO	7	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	1	12-16-2001	1-13-2002	12-20-2001	88.05
+10131	MEREP	3	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	1	12-17-2001	1-14-2002	12-20-2001	214.92
+10132	LETSS	2	Let's Stop N Shop	87-Polk St. Suite 5	San Francisco	CA	94117	USA	2	12-18-2001	1-15-2002	1-8-2002	112.33
+10133	REGGC	5	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	2	12-19-2001	1-16-2002	12-23-2001	7.48
+10134	WARTH	3	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	1	12-20-2001	1-17-2002	12-27-2001	7.93
+10135	GROSR	3	GROSELLA-Restaurante	5ª Ave. Los Palos Grandes	Caracas	DF	1081	Venezuela	1	12-24-2001	1-21-2002	1-3-2002	6.01
+10136	HUNGO	7	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	1	12-25-2001	1-22-2002	12-30-2001	41.46
+10137	ANTON	9	Antonio Moreno Taqueria	Mataderos  2312	Mexico D.F.		5023	Mexico	1	12-26-2001	1-23-2002	1-22-2002	51.50
+10138	DUMON	8	Du monde entier	67, rue des Cinquante Otages	Nantes		44000	France	2	12-27-2001	1-24-2002	1-3-2002	0.03
+10139	VAFFE	9	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	2	12-30-2001	1-27-2002	1-9-2002	19.87
+10140	LEHMS	2	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	3	1-1-2002	1-29-2002	1-3-2002	27.48
+10141	FRANK	2	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	3	1-2-2002	1-30-2002	1-9-2002	165.54
+10142	ANTON	5	Antonio Moreno Taqueria	Mataderos  2312	Mexico D.F.		5023	Mexico	3	1-3-2002	1-31-2002	1-8-2002	7.97
+10143	OTTIK	4	Ottilies Kaseladen	Mehrheimerstr. 369	Koln		50739	Germany	3	1-6-2002	2-3-2002	1-14-2002	14.34
+10144	AROUT	7	Around the Horn	Brook Farm Stratford St. Mary	Colchester	Essex	CO7-6JX	UK	2	1-7-2002	2-4-2002	1-13-2002	31.37
+10145	GOURL	9	Gourmet Lanchonetes	Av. Brasil, 442	Campinas	SP	04876-786	Brazil	2	1-9-2002	2-6-2002	1-16-2002	15.33
+10146	FISSA	3	FISSA Fabrica Inter. Salchichas S.A.	C/ Moralzarzal, 86	Madrid		28034	Spain	2	1-10-2002	2-7-2002	1-14-2002	0.73
+10147	FRANS	2	Franchi S.p.A.	Via Monte Bianco 34	Torino		10100	Italy	2	1-13-2002	2-10-2002	1-21-2002	63.69
+10148	VAFFE	1	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	2	1-14-2002	2-11-2002	1-29-2002	60.49
+10149	OLDWO	1	Old World Delicatessen	2743-Bering St.	Anchorage	AK	99508	USA	3	1-15-2002	2-12-2002	1-23-2002	63.63
+10150	SIMOB	4	Simons bistro	Vinbæltet 34	Kobenhavn		1734	Denmark	2	1-17-2002	2-28-2002	1-24-2002	32.16
+10151	FAMIA	2	Familia Arquibaldo	Rua Oros, 92	São Paulo	SP	05442-030	Brazil	1	1-20-2002	2-17-2002	1-24-2002	0.82
+10152	LEHMS	2	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	1	1-21-2002	2-18-2002	1-24-2002	11.12
+10153	VICTE	7	Victuailles en stock	2, rue du Commerce	Lyon		69004	France	2	1-22-2002	2-19-2002	1-27-2002	25.95
+10154	NORTS	1	North/South	South House 300 Queensbridge	London		SW7-1RZ	UK	3	1-23-2002	2-20-2002	1-27-2002	21.41
+10155	CHOPS	4	Chop-suey Chinese	Hauptstr. 31	Bern		3012	Switzerland	2	1-27-2002	2-24-2002	2-28-2002	146.77
+10156	RICSU	4	Richter Supermarkt	Starenweg 5	Geneve		1204	Switzerland	3	1-28-2002	2-25-2002	2-6-2002	67.78
+10157	HILAA	4	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	2	1-29-2002	2-26-2002	2-4-2002	10.29
+10158	BERGS	6	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	3	1-30-2002	2-27-2002	2-4-2002	19.35
+10159	MAISD	4	Maison Dewey	Rue Joseph-Bens 532	Bruxelles		B-1180	Belgium	1	1-31-2002	2-28-2002	2-4-2002	26.33
+10160	GODOS	7	Godos Cocina Tipica	C/ Romero, 33	Sevilla		41101	Spain	3	2-4-2002	3-3-2002	2-11-2002	4.81
+10161	KOENE	3	Koniglich Essen	Maubelstr. 90	Brandenburg		14776	Germany	1	2-5-2002	3-4-2002	2-14-2002	38.74
+10162	CHOPS	6	Chop-suey Chinese	Hauptstr. 31	Bern		3012	Switzerland	2	2-6-2002	3-5-2002	2-12-2002	13.40
+10163	FRANK	4	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	2	2-7-2002	3-6-2002	2-11-2002	115.77
+10164	GROSR	3	GROSELLA-Restaurante	5ª Ave. Los Palos Grandes	Caracas	DF	1081	Venezuela	3	2-10-2002	3-9-2002	2-20-2002	3.33
+10165	LINOD	4	LINO-Delicateses	Ave. 5-de Mayo Porlamar	I. de Margarita	Nueva Esparta	4980	Venezuela	1	2-12-2002	3-11-2002	2-14-2002	84.40
+10166	ISLAT	8	Island Trading	Garden House Crowther Way	Hedge End	Lancashire	LA9-PX8	UK	1	2-13-2002	3-12-2002	2-17-2002	54.89
+10167	SAVEA	3	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	2-14-2002	3-13-2002	2-18-2002	212.40
+10168	SAVEA	6	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	2	2-17-2002	3-16-2002	2-19-2002	118.25
+10169	RATTC	8	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	3	2-18-2002	3-17-2002	2-21-2002	111.06
+10170	REGGC	1	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	2	2-20-2002	3-19-2002	3-6-2002	1.09
+10171	BERGS	6	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	3	2-20-2002	3-19-2002	2-28-2002	19.75
+10172	ISLAT	1	Island Trading	Garden House Crowther Way	Hedge End	Lancashire	LA9-PX8	UK	1	2-21-2002	3-20-2002	2-25-2002	8.21
+10173	FOLIG	4	Folies gourmandes	184, chaussee de Tournai	Lille		59000	France	3	2-24-2002	3-23-2002	3-2-2002	37.36
+10174	MEREP	1	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	1	2-25-2002	3-24-2002	3-9-2002	45.44
+10175	SEVES	8	Seven Seas Imports	90 Wadhurst Rd.	London		OX15-4NB	UK	3	2-26-2002	3-25-2002	3-6-2002	138.44
+10176	BOTTM	7	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	2	2-27-2002	3-26-2002	3-6-2002	4.90
+10177	LEHMS	2	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	1	2-28-2002	4-10-2002	3-9-2002	3.00
+10178	OTTIK	2	Ottilies Kaseladen	Mehrheimerstr. 369	Koln		50739	Germany	1	3-2-2002	3-16-2002	3-9-2002	61.69
+10179	FISSA	6	FISSA Fabrica Inter. Salchichas S.A.	C/ Moralzarzal, 86	Madrid		28034	Spain	2	3-3-2002	3-31-2002	3-9-2002	31.77
+10180	HANAR	8	Hanari Carnes	Rua do Paco, 67	Rio de Janeiro	RJ	05454-876	Brazil	3	3-4-2002	4-1-2002	3-9-2002	18.19
+10181	FURIB	4	Furia Bacalhau e Frutos do Mar	Jardim das rosas n. 32	Lisboa		1675	Portugal	1	3-4-2002	4-1-2002	3-13-2002	124.24
+10182	DUMON	1	Du monde entier	67, rue des Cinquante Otages	Nantes		44000	France	1	3-5-2002	4-16-2002	3-9-2002	20.06
+10183	BOTTM	2	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	2	3-6-2002	4-3-2002	3-17-2002	16.16
+10184	FISSA	4	FISSA Fabrica Inter. Salchichas S.A.	C/ Moralzarzal, 86	Madrid		28034	Spain	3	3-9-2002	4-6-2002	3-26-2002	31.74
+10185	FAMIA	3	Familia Arquibaldo	Rua Oros, 92	São Paulo	SP	05442-030	Brazil	1	3-10-2002	4-7-2002	4-10-2002	34.45
+10186	GODOS	4	Godos Cocina Tipica	C/ Romero, 33	Sevilla		41101	Spain	1	3-11-2002	4-8-2002	3-13-2002	20.20
+10187	VAFFE	2	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	1	3-12-2002	4-9-2002	3-17-2002	52.34
+10188	WARTH	1	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	3	3-13-2002	4-10-2002	3-19-2002	0.50
+10189	HILAA	2	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	2	3-16-2002	4-13-2002	3-20-2002	11.26
+10190	BONAP	8	Bon app'	12, rue des Bouchers	Marseille		13008	France	1	3-17-2002	4-14-2002	3-20-2002	1.00
+10191	MAGAA	4	Magazzini Alimentari Riuniti	Via Ludovico il Moro 22	Bergamo		24100	Italy	2	3-17-2002	4-14-2002	3-19-2002	17.97
+10192	DRACD	7	Drachenblut Delikatessen	Walserweg 21	Aachen		52066	Germany	2	3-18-2002	4-15-2002	4-3-2002	26.69
+10193	SAVEA	1	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	2	3-19-2002	4-16-2002	4-7-2002	6.13
+10194	PICCO	2	Piccolo und mehr	Geislweg 14	Salzburg		5020	Austria	2	3-20-2002	4-3-2002	3-23-2002	37.46
+10195	QUEDE	4	Que Delicia	Rua da Panificadora, 12	Rio de Janeiro	RJ	02389-673	Brazil	3	3-23-2002	4-20-2002	3-27-2002	78.36
+10196	LILAS	2	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	1	3-24-2002	4-21-2002	4-22-2002	411.06
+10197	LEHMS	5	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	3	3-25-2002	4-22-2002	3-27-2002	36.75
+10198	OCEAN	7	Oceano Atlantico Ltda.	Ing. Gustavo Moncada 8585-Piso 20-A	Buenos Aires		1010	Argentina	2	3-26-2002	4-23-2002	3-30-2002	31.14
+10199	SAVEA	1	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	3-27-2002	4-10-2002	3-30-2002	50.19
+10200	BOLID	8	Bolido Comidas preparadas	C/ Araquil, 67	Madrid		28023	Spain	3	3-30-2002	4-27-2002	4-29-2002	25.08
+10201	SIMOB	3	Simons bistro	Vinbæltet 34	Kobenhavn		1734	Denmark	3	3-30-2002	5-11-2002	4-2-2002	11.70
+10202	FRANK	4	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	3	3-31-2002	4-28-2002	4-17-2002	173.07
+10203	DUMON	8	Du monde entier	67, rue des Cinquante Otages	Nantes		44000	France	2	4-1-2002	5-13-2002	4-3-2002	38.06
+10204	SUPRD	4	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	1	4-2-2002	4-30-2002	4-6-2002	0.05
+10205	HUNGO	9	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	2	4-3-2002	5-1-2002	4-14-2002	160.25
+10206	SAVEA	8	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	2	4-6-2002	5-4-2002	4-9-2002	40.08
+10207	TOMSP	3	Toms Spezialitaten	Luisenstr. 48	Munster		44087	Germany	2	4-7-2002	5-5-2002	4-16-2002	20.82
+10208	RICSU	8	Richter Supermarkt	Starenweg 5	Geneve		1204	Switzerland	2	4-8-2002	5-6-2002	4-22-2002	26.20
+10209	REGGC	5	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	2	4-9-2002	5-7-2002	5-6-2002	17.77
+10210	FOLKO	1	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	2	4-10-2002	5-8-2002	4-20-2002	9.49
+10211	MAISD	8	Maison Dewey	Rue Joseph-Bens 532	Bruxelles		B-1180	Belgium	3	4-10-2002	5-8-2002	4-15-2002	31.35
+10212	BONAP	2	Bon app'	12, rue des Bouchers	Marseille		13008	France	2	4-13-2002	5-11-2002	4-22-2002	9.91
+10213	BERGS	7	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	3	4-14-2002	5-12-2002	4-22-2002	3.76
+10214	MEREP	8	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	2	4-15-2002	5-13-2002	4-17-2002	78.77
+10215	WANDK	8	Die Wandernde Kuh	Adenauerallee 900	Stuttgart		70563	Germany	1	4-16-2002	5-14-2002	5-11-2002	13.22
+10216	RATTC	8	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	3	4-17-2002	5-15-2002	4-23-2002	28.83
+10217	MAISD	1	Maison Dewey	Rue Joseph-Bens 532	Bruxelles		B-1180	Belgium	3	4-20-2002	6-1-2002	5-8-2002	0.62
+10218	ANTON	8	Antonio Moreno Taqueria	Mataderos  2312	Mexico D.F.		5023	Mexico	1	4-21-2002	5-19-2002	5-25-2002	77.55
+10219	SEVES	3	Seven Seas Imports	90 Wadhurst Rd.	London		OX15-4NB	UK	2	4-22-2002	6-3-2002	4-24-2002	72.03
+10220	EASTC	4	Eastern Connection	35-King George	London		WX3-6FW	UK	2	4-23-2002	5-21-2002	4-30-2002	33.19
+10221	MAGAA	3	Magazzini Alimentari Riuniti	Via Ludovico il Moro 22	Bergamo		24100	Italy	1	4-23-2002	5-21-2002	5-1-2002	8.01
+10222	FRANK	4	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	3	4-24-2002	5-22-2002	5-1-2002	137.13
+10223	SPECD	4	Specialites du monde	25, rue Lauriston	Paris		75016	France	3	4-27-2002	5-25-2002	5-1-2002	16.62
+10224	RICAR	1	Ricardo Adocicados	Av. Copacabana, 267	Rio de Janeiro	RJ	02389-890	Brazil	2	4-28-2002	5-26-2002	5-7-2002	24.58
+10225	SAVEA	3	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	4-29-2002	5-27-2002	5-4-2002	147.73
+10226	SAVEA	3	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	4-30-2002	5-28-2002	5-11-2002	358.75
+10227	TRADH	6	Tradicão Hipermercados	Av. Inês de Castro, 414	São Paulo	SP	05634-030	Brazil	2	5-1-2002	6-12-2002	6-4-2002	2.15
+10228	CENTC	2	Centro comercial Moctezuma	Sierras de Granada 9993	Mexico D.F.		5022	Mexico	2	5-4-2002	6-1-2002	5-7-2002	36.16
+10229	LAZYK	7	Lazy K Kountry Store	12-Orchestra Terrace	Walla Walla	WA	99362	USA	1	5-5-2002	6-2-2002	5-7-2002	8.81
+10230	BOTTM	2	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	2	5-6-2002	6-3-2002	5-14-2002	151.14
+10231	BOTTM	6	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	3	5-6-2002	6-3-2002	5-13-2002	21.30
+10232	DRACD	4	Drachenblut Delikatessen	Walserweg 21	Aachen		52066	Germany	2	5-7-2002	6-4-2002	5-12-2002	12.48
+10233	BERGS	1	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	3	5-8-2002	6-5-2002	5-15-2002	39.47
+10234	GROSR	4	GROSELLA-Restaurante	5ª Ave. Los Palos Grandes	Caracas	DF	1081	Venezuela	2	5-11-2002	6-8-2002	5-21-2002	30.34
+10235	VICTE	7	Victuailles en stock	2, rue du Commerce	Lyon		69004	France	1	5-12-2002	6-9-2002	5-20-2002	7.58
+10236	SEVES	6	Seven Seas Imports	90 Wadhurst Rd.	London		OX15-4NB	UK	3	5-13-2002	6-10-2002	5-22-2002	54.25
+10237	WANDK	7	Die Wandernde Kuh	Adenauerallee 900	Stuttgart		70563	Germany	1	5-14-2002	5-28-2002	5-22-2002	47.09
+10238	BSBEV	1	B's Beverages	Fauntleroy Circus	London		EC2-5NT	UK	1	5-15-2002	6-12-2002	5-20-2002	7.24
+10239	FRANS	3	Franchi S.p.A.	Via Monte Bianco 34	Torino		10100	Italy	1	5-18-2002	6-15-2002	5-21-2002	45.17
+10240	BOTTM	3	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	1	5-19-2002	6-16-2002	5-22-2002	15.16
+10241	BOLID	7	Bolido Comidas preparadas	C/ Araquil, 67	Madrid		28023	Spain	2	5-19-2002	6-16-2002	5-27-2002	89.16
+10242	LILAS	6	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	1	5-20-2002	6-17-2002	5-22-2002	55.95
+10243	CONSH	2	Consolidated Holdings	Berkeley Gardens 12- Brewery	London		WX1-6LT	UK	1	5-21-2002	6-18-2002	5-29-2002	11.46
+10244	RICAR	2	Ricardo Adocicados	Av. Copacabana, 267	Rio de Janeiro	RJ	02389-890	Brazil	2	5-22-2002	6-5-2002	5-28-2002	14.78
+10245	HUNGO	8	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	2	5-25-2002	6-22-2002	6-3-2002	46.18
+10246	GOURL	7	Gourmet Lanchonetes	Av. Brasil, 442	Campinas	SP	04876-786	Brazil	1	5-26-2002	6-23-2002	6-3-2002	13.80
+10247	SAVEA	4	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	1	5-27-2002	6-24-2002	6-2-2002	109.22
+10248	VINET	5	Vins et alcools Chevalier	59-rue de l'Abbaye	Reims		51100	France	3	5-28-2002	6-25-2002	6-9-2002	32.38
+10249	TOMSP	6	Toms Spezialitaten	Luisenstr. 48	Munster		44087	Germany	1	5-29-2002	7-10-2002	6-3-2002	11.61
+10250	HANAR	4	Hanari Carnes	Rua do Paco, 67	Rio de Janeiro	RJ	05454-876	Brazil	2	6-1-2002	6-29-2002	6-5-2002	65.83
+10251	VICTE	3	Victuailles en stock	2, rue du Commerce	Lyon		69004	France	1	6-1-2002	6-29-2002	6-8-2002	41.34
+10252	SUPRD	4	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	2	6-2-2002	6-30-2002	6-4-2002	51.30
+10253	HANAR	3	Hanari Carnes	Rua do Paco, 67	Rio de Janeiro	RJ	05454-876	Brazil	2	6-3-2002	6-17-2002	6-9-2002	58.17
+10254	CHOPS	5	Chop-suey Chinese	Hauptstr. 31	Bern		3012	Switzerland	2	6-4-2002	7-2-2002	6-16-2002	22.98
+10255	RICSU	9	Richter Supermarkt	Starenweg 5	Geneve		1204	Switzerland	3	6-5-2002	7-3-2002	6-8-2002	148.33
+10256	WELLI	3	Wellington Importadora	Rua do Mercado, 12	Resende	SP	08737-363	Brazil	2	6-8-2002	7-6-2002	6-10-2002	13.97
+10257	HILAA	4	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	3	6-9-2002	7-7-2002	6-15-2002	81.91
+10258	ERNSH	1	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	1	6-10-2002	7-8-2002	6-16-2002	140.51
+10259	CENTC	4	Centro comercial Moctezuma	Sierras de Granada 9993	Mexico D.F.		5022	Mexico	3	6-11-2002	7-9-2002	6-18-2002	3.25
+10260	OTTIK	4	Ottilies Kaseladen	Mehrheimerstr. 369	Koln		50739	Germany	1	6-12-2002	7-10-2002	6-22-2002	55.09
+10261	QUEDE	4	Que Delicia	Rua da Panificadora, 12	Rio de Janeiro	RJ	02389-673	Brazil	2	6-12-2002	7-10-2002	6-23-2002	3.05
+10262	RATTC	8	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	3	6-15-2002	7-13-2002	6-18-2002	48.29
+10263	ERNSH	9	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	3	6-16-2002	7-14-2002	6-24-2002	146.06
+10264	FOLKO	6	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	3	6-17-2002	7-15-2002	7-17-2002	3.67
+10265	BLONP	2	Blondel pere et fils	24, place Kleber	Strasbourg		67000	France	1	6-18-2002	7-16-2002	7-6-2002	55.28
+10266	WARTH	3	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	3	6-19-2002	7-31-2002	6-24-2002	25.73
+10267	FRANK	4	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	1	6-22-2002	7-20-2002	6-30-2002	208.58
+10268	GROSR	8	GROSELLA-Restaurante	5ª Ave. Los Palos Grandes	Caracas	DF	1081	Venezuela	3	6-23-2002	7-21-2002	6-26-2002	66.29
+10269	WHITC	5	White Clover Markets	1029-- 12th Ave. S.	Seattle	WA	98124	USA	1	6-24-2002	7-8-2002	7-3-2002	4.56
+10270	WARTH	1	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	1	6-25-2002	7-23-2002	6-26-2002	136.54
+10271	SPLIR	6	Split Rail Beer & Ale	P.O. Box 555	Lander	WY	82520	USA	2	6-25-2002	7-23-2002	7-24-2002	4.54
+10272	RATTC	6	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	2	6-26-2002	7-24-2002	6-30-2002	98.03
+10273	QUICK	3	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	3	6-29-2002	7-27-2002	7-6-2002	76.07
+10274	VINET	6	Vins et alcools Chevalier	59-rue de l'Abbaye	Reims		51100	France	1	6-30-2002	7-28-2002	7-10-2002	6.01
+10275	MAGAA	1	Magazzini Alimentari Riuniti	Via Ludovico il Moro 22	Bergamo		24100	Italy	1	7-1-2002	7-29-2002	7-3-2002	26.93
+10276	TORTU	8	Tortuga Restaurante	Avda. Azteca 123	Mexico D.F.		5033	Mexico	3	7-2-2002	7-16-2002	7-8-2002	13.84
+10277	MORGK	2	Morgenstern Gesundkost	Heerstr. 22	Leipzig		4179	Germany	3	7-3-2002	7-31-2002	7-7-2002	125.77
+10278	BERGS	8	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	2	7-6-2002	8-3-2002	7-10-2002	92.69
+10279	LEHMS	8	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	2	7-7-2002	8-4-2002	7-10-2002	25.83
+10280	BERGS	2	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	1	7-8-2002	8-5-2002	8-6-2002	8.98
+10281	ROMEY	4	Romero y tomillo	Gran Via, 1	Madrid		28001	Spain	1	7-8-2002	7-22-2002	7-15-2002	2.94
+10282	ROMEY	4	Romero y tomillo	Gran Via, 1	Madrid		28001	Spain	1	7-9-2002	8-6-2002	7-15-2002	12.69
+10283	LILAS	3	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	3	7-10-2002	8-7-2002	7-17-2002	84.81
+10284	LEHMS	4	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	1	7-13-2002	8-10-2002	7-21-2002	76.56
+10285	QUICK	1	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	2	7-14-2002	8-11-2002	7-20-2002	76.83
+10286	QUICK	8	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	3	7-15-2002	8-12-2002	7-24-2002	229.24
+10287	RICAR	8	Ricardo Adocicados	Av. Copacabana, 267	Rio de Janeiro	RJ	02389-890	Brazil	3	7-16-2002	8-13-2002	7-22-2002	12.76
+10288	REGGC	4	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	1	7-17-2002	8-14-2002	7-28-2002	7.45
+10289	BSBEV	7	B's Beverages	Fauntleroy Circus	London		EC2-5NT	UK	3	7-20-2002	8-17-2002	7-22-2002	22.77
+10290	COMMI	8	Comercio Mineiro	Av. dos Lusiadas, 23	São Paulo	SP	05432-043	Brazil	1	7-21-2002	8-18-2002	7-28-2002	79.70
+10291	QUEDE	6	Que Delicia	Rua da Panificadora, 12	Rio de Janeiro	RJ	02389-673	Brazil	2	7-21-2002	8-18-2002	7-29-2002	6.40
+10292	TRADH	1	Tradicão Hipermercados	Av. Inês de Castro, 414	São Paulo	SP	05634-030	Brazil	2	7-22-2002	8-19-2002	7-27-2002	1.35
+10293	TORTU	1	Tortuga Restaurante	Avda. Azteca 123	Mexico D.F.		5033	Mexico	3	7-23-2002	8-20-2002	8-5-2002	21.18
+10294	RATTC	4	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	2	7-24-2002	8-21-2002	7-30-2002	147.26
+10295	VINET	2	Vins et alcools Chevalier	59-rue de l'Abbaye	Reims		51100	France	2	7-27-2002	8-24-2002	8-4-2002	1.15
+10296	LILAS	6	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	1	7-28-2002	8-25-2002	8-5-2002	0.12
+10297	BLONP	5	Blondel pere et fils	24, place Kleber	Strasbourg		67000	France	2	7-29-2002	9-9-2002	8-4-2002	5.74
+10298	HUNGO	6	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	2	7-30-2002	8-27-2002	8-5-2002	168.22
+10299	RICAR	4	Ricardo Adocicados	Av. Copacabana, 267	Rio de Janeiro	RJ	02389-890	Brazil	2	7-31-2002	8-28-2002	8-7-2002	29.76
+10300	MAGAA	2	Magazzini Alimentari Riuniti	Via Ludovico il Moro 22	Bergamo		24100	Italy	2	8-3-2002	8-31-2002	8-12-2002	17.68
+10301	WANDK	8	Die Wandernde Kuh	Adenauerallee 900	Stuttgart		70563	Germany	2	8-3-2002	8-31-2002	8-11-2002	45.08
+10302	SUPRD	4	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	2	8-4-2002	9-1-2002	9-2-2002	6.27
+10303	GODOS	7	Godos Cocina Tipica	C/ Romero, 33	Sevilla		41101	Spain	2	8-5-2002	9-2-2002	8-12-2002	107.83
+10304	TORTU	1	Tortuga Restaurante	Avda. Azteca 123	Mexico D.F.		5033	Mexico	2	8-6-2002	9-3-2002	8-11-2002	63.79
+10305	OLDWO	8	Old World Delicatessen	2743-Bering St.	Anchorage	AK	99508	USA	3	8-7-2002	9-4-2002	9-2-2002	257.62
+10306	ROMEY	1	Romero y tomillo	Gran Via, 1	Madrid		28001	Spain	3	8-10-2002	9-7-2002	8-17-2002	7.56
+10307	LONEP	2	Lonesome Pine Restaurant	89-Chiaroscuro Rd.	Portland	OR	97219	USA	2	8-11-2002	9-8-2002	8-19-2002	0.56
+10308	ANATR	7	Ana Trujillo Emparedados y helados	Avda. de la Constitucion 2222	Mexico D.F.		5021	Mexico	3	8-12-2002	9-9-2002	8-18-2002	1.61
+10309	HUNGO	3	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	1	8-13-2002	9-10-2002	9-16-2002	47.30
+10310	THEBI	8	The Big Cheese	89-Jefferson Way Suite 2	Portland	OR	97201	USA	2	8-14-2002	9-11-2002	8-21-2002	17.52
+10311	DUMON	1	Du monde entier	67, rue des Cinquante Otages	Nantes		44000	France	3	8-14-2002	8-28-2002	8-20-2002	24.69
+10312	WANDK	2	Die Wandernde Kuh	Adenauerallee 900	Stuttgart		70563	Germany	2	8-17-2002	9-14-2002	8-27-2002	40.26
+10313	QUICK	2	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	2	8-18-2002	9-15-2002	8-28-2002	1.96
+10314	RATTC	1	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	2	8-19-2002	9-16-2002	8-28-2002	74.16
+10315	ISLAT	4	Island Trading	Garden House Crowther Way	Hedge End	Lancashire	LA9-PX8	UK	2	8-20-2002	9-17-2002	8-27-2002	41.76
+10316	RATTC	1	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	3	8-21-2002	9-18-2002	9-1-2002	150.15
+10317	LONEP	6	Lonesome Pine Restaurant	89-Chiaroscuro Rd.	Portland	OR	97219	USA	1	8-24-2002	9-21-2002	9-3-2002	12.69
+10318	ISLAT	8	Island Trading	Garden House Crowther Way	Hedge End	Lancashire	LA9-PX8	UK	2	8-25-2002	9-22-2002	8-28-2002	4.73
+10319	TORTU	7	Tortuga Restaurante	Avda. Azteca 123	Mexico D.F.		5033	Mexico	3	8-26-2002	9-23-2002	9-4-2002	64.50
+10320	WARTH	5	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	3	8-27-2002	9-10-2002	9-11-2002	34.57
+10321	ISLAT	3	Island Trading	Garden House Crowther Way	Hedge End	Lancashire	LA9-PX8	UK	2	8-27-2002	9-24-2002	9-4-2002	3.43
+10322	PERIC	7	Pericles Comidas clasicas	Calle Dr. Jorge Cash 321	Mexico D.F.		5033	Mexico	3	8-28-2002	9-25-2002	9-16-2002	0.40
+10323	KOENE	4	Koniglich Essen	Maubelstr. 90	Brandenburg		14776	Germany	1	8-31-2002	9-28-2002	9-7-2002	4.88
+10324	SAVEA	9	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	1	9-1-2002	9-29-2002	9-3-2002	214.27
+10325	KOENE	1	Koniglich Essen	Maubelstr. 90	Brandenburg		14776	Germany	3	9-2-2002	9-16-2002	9-7-2002	64.86
+10326	BOLID	4	Bolido Comidas preparadas	C/ Araquil, 67	Madrid		28023	Spain	2	9-3-2002	10-1-2002	9-7-2002	77.92
+10327	FOLKO	2	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	1	9-4-2002	10-2-2002	9-7-2002	63.36
+10328	FURIB	4	Furia Bacalhau e Frutos do Mar	Jardim das rosas n. 32	Lisboa		1675	Portugal	3	9-7-2002	10-5-2002	9-10-2002	87.03
+10329	SPLIR	4	Split Rail Beer & Ale	P.O. Box 555	Lander	WY	82520	USA	2	9-8-2002	10-20-2002	9-16-2002	191.67
+10330	LILAS	3	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	1	9-9-2002	10-7-2002	9-21-2002	12.75
+10331	BONAP	9	Bon app'	12, rue des Bouchers	Marseille		13008	France	1	9-9-2002	10-21-2002	9-14-2002	10.19
+10332	MEREP	3	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	2	9-10-2002	10-22-2002	9-14-2002	52.84
+10333	WARTH	5	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	3	9-11-2002	10-9-2002	9-18-2002	0.59
+10334	VICTE	8	Victuailles en stock	2, rue du Commerce	Lyon		69004	France	2	9-14-2002	10-12-2002	9-21-2002	8.56
+10335	HUNGO	7	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	2	9-15-2002	10-13-2002	9-17-2002	42.11
+10336	PRINI	7	Princesa Isabel Vinhos	Estrada da saúde n. 58	Lisboa		1756	Portugal	2	9-16-2002	10-14-2002	9-18-2002	15.51
+10337	FRANK	4	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	3	9-17-2002	10-15-2002	9-22-2002	108.26
+10338	OLDWO	4	Old World Delicatessen	2743-Bering St.	Anchorage	AK	99508	USA	3	9-18-2002	10-16-2002	9-22-2002	84.21
+10339	MEREP	2	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	2	9-21-2002	10-19-2002	9-28-2002	15.66
+10340	BONAP	1	Bon app'	12, rue des Bouchers	Marseille		13008	France	3	9-22-2002	10-20-2002	10-2-2002	166.31
+10341	SIMOB	7	Simons bistro	Vinbæltet 34	Kobenhavn		1734	Denmark	3	9-22-2002	10-20-2002	9-29-2002	26.78
+10342	FRANK	4	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	2	9-23-2002	10-7-2002	9-28-2002	54.83
+10343	LEHMS	4	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	1	9-24-2002	10-22-2002	9-30-2002	110.37
+10344	WHITC	4	White Clover Markets	1029-- 12th Ave. S.	Seattle	WA	98124	USA	2	9-25-2002	10-23-2002	9-29-2002	23.29
+10345	QUICK	2	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	2	9-28-2002	10-26-2002	10-5-2002	249.06
+10346	RATTC	3	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	3	9-29-2002	11-10-2002	10-2-2002	142.08
+10347	FAMIA	4	Familia Arquibaldo	Rua Oros, 92	São Paulo	SP	05442-030	Brazil	3	9-30-2002	10-28-2002	10-2-2002	3.10
+10348	WANDK	4	Die Wandernde Kuh	Adenauerallee 900	Stuttgart		70563	Germany	2	10-1-2002	10-29-2002	10-9-2002	0.78
+10349	SPLIR	7	Split Rail Beer & Ale	P.O. Box 555	Lander	WY	82520	USA	1	10-2-2002	10-30-2002	10-9-2002	8.63
+10350	LAMAI	6	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	2	10-5-2002	11-2-2002	10-27-2002	64.19
+10351	ERNSH	1	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	1	10-5-2002	11-2-2002	10-14-2002	162.33
+10352	FURIB	3	Furia Bacalhau e Frutos do Mar	Jardim das rosas n. 32	Lisboa		1675	Portugal	3	10-6-2002	10-20-2002	10-12-2002	1.30
+10353	PICCO	7	Piccolo und mehr	Geislweg 14	Salzburg		5020	Austria	3	10-7-2002	11-4-2002	10-19-2002	360.63
+10354	PERIC	8	Pericles Comidas clasicas	Calle Dr. Jorge Cash 321	Mexico D.F.		5033	Mexico	3	10-8-2002	11-5-2002	10-14-2002	53.80
+10355	AROUT	6	Around the Horn	Brook Farm Stratford St. Mary	Colchester	Essex	CO7-6JX	UK	1	10-9-2002	11-6-2002	10-14-2002	41.95
+10356	WANDK	6	Die Wandernde Kuh	Adenauerallee 900	Stuttgart		70563	Germany	2	10-12-2002	11-9-2002	10-21-2002	36.71
+10357	LILAS	1	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	3	10-13-2002	11-10-2002	10-26-2002	34.88
+10358	LAMAI	5	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	1	10-14-2002	11-11-2002	10-21-2002	19.64
+10359	SEVES	5	Seven Seas Imports	90 Wadhurst Rd.	London		OX15-4NB	UK	3	10-15-2002	11-12-2002	10-20-2002	288.43
+10360	BLONP	4	Blondel pere et fils	24, place Kleber	Strasbourg		67000	France	3	10-16-2002	11-13-2002	10-26-2002	131.70
+10361	QUICK	1	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	2	10-16-2002	11-13-2002	10-27-2002	183.17
+10362	BONAP	3	Bon app'	12, rue des Bouchers	Marseille		13008	France	1	10-19-2002	11-16-2002	10-22-2002	96.04
+10363	DRACD	4	Drachenblut Delikatessen	Walserweg 21	Aachen		52066	Germany	3	10-20-2002	11-17-2002	10-28-2002	30.54
+10364	EASTC	1	Eastern Connection	35-King George	London		WX3-6FW	UK	1	10-20-2002	12-1-2002	10-28-2002	71.97
+10365	ANTON	3	Antonio Moreno Taqueria	Mataderos  2312	Mexico D.F.		5023	Mexico	2	10-21-2002	11-18-2002	10-26-2002	22.00
+10366	GALED	8	Galeria del gastronomo	Rambla de Cataluna, 23	Barcelona		8022	Spain	2	10-22-2002	12-3-2002	11-23-2002	10.14
+10367	VAFFE	7	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	3	10-22-2002	11-19-2002	10-26-2002	13.55
+10368	ERNSH	2	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	2	10-23-2002	11-20-2002	10-26-2002	101.95
+10369	SPLIR	8	Split Rail Beer & Ale	P.O. Box 555	Lander	WY	82520	USA	2	10-26-2002	11-23-2002	11-2-2002	195.68
+10370	CHOPS	6	Chop-suey Chinese	Hauptstr. 31	Bern		3012	Switzerland	2	10-27-2002	11-24-2002	11-20-2002	1.17
+10371	LAMAI	1	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	1	10-27-2002	11-24-2002	11-17-2002	0.45
+10372	QUEEN	5	Queen Cozinha	Alameda dos Canarios, 891	São Paulo	SP	05487-020	Brazil	2	10-28-2002	11-25-2002	11-2-2002	890.78
+10373	HUNGO	4	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	3	10-29-2002	11-26-2002	11-4-2002	124.12
+10374	WOLZA	1	Wolski Zajazd	ul. Filtrowa 68	Warszawa		01-012	Poland	3	10-29-2002	11-26-2002	11-2-2002	3.94
+10375	HUNGC	3	Hungry Coyote Import Store	City Center Plaza 516-Main St.	Elgin	OR	97827	USA	2	10-30-2002	11-27-2002	11-2-2002	20.12
+10376	MEREP	1	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	2	11-2-2002	11-30-2002	11-6-2002	20.39
+10377	SEVES	1	Seven Seas Imports	90 Wadhurst Rd.	London		OX15-4NB	UK	3	11-2-2002	11-30-2002	11-6-2002	22.21
+10378	FOLKO	5	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	3	11-3-2002	12-1-2002	11-12-2002	5.44
+10379	QUEDE	2	Que Delicia	Rua da Panificadora, 12	Rio de Janeiro	RJ	02389-673	Brazil	1	11-4-2002	12-2-2002	11-6-2002	45.03
+10380	HUNGO	8	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	3	11-5-2002	12-3-2002	12-10-2002	35.03
+10381	LILAS	3	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	3	11-5-2002	12-3-2002	11-6-2002	7.99
+10382	ERNSH	4	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	1	11-6-2002	12-4-2002	11-9-2002	94.77
+10383	AROUT	8	Around the Horn	Brook Farm Stratford St. Mary	Colchester	Essex	CO7-6JX	UK	3	11-9-2002	12-7-2002	11-11-2002	34.24
+10384	BERGS	3	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	3	11-9-2002	12-7-2002	11-13-2002	168.64
+10385	SPLIR	1	Split Rail Beer & Ale	P.O. Box 555	Lander	WY	82520	USA	2	11-10-2002	12-8-2002	11-16-2002	30.96
+10386	FAMIA	9	Familia Arquibaldo	Rua Oros, 92	São Paulo	SP	05442-030	Brazil	3	11-11-2002	11-25-2002	11-18-2002	13.99
+10387	SANTG	1	Sante Gourmet	Erling Skakkes gate 78	Stavern		4110	Norway	2	11-11-2002	12-9-2002	11-13-2002	93.63
+10388	SEVES	2	Seven Seas Imports	90 Wadhurst Rd.	London		OX15-4NB	UK	1	11-12-2002	12-10-2002	11-13-2002	34.86
+10389	BOTTM	4	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	2	11-13-2002	12-11-2002	11-17-2002	47.42
+10390	ERNSH	6	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	1	11-16-2002	12-14-2002	11-19-2002	126.38
+10391	DRACD	3	Drachenblut Delikatessen	Walserweg 21	Aachen		52066	Germany	3	11-16-2002	12-14-2002	11-24-2002	5.45
+10392	PICCO	2	Piccolo und mehr	Geislweg 14	Salzburg		5020	Austria	3	11-17-2002	12-15-2002	11-25-2002	122.46
+10393	SAVEA	1	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	11-18-2002	12-16-2002	11-27-2002	126.56
+10394	HUNGC	1	Hungry Coyote Import Store	City Center Plaza 516-Main St.	Elgin	OR	97827	USA	3	11-18-2002	12-16-2002	11-27-2002	30.34
+10395	HILAA	6	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	1	11-19-2002	12-17-2002	11-27-2002	184.41
+10396	FRANK	1	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	3	11-20-2002	12-4-2002	11-30-2002	135.35
+10397	PRINI	5	Princesa Isabel Vinhos	Estrada da saúde n. 58	Lisboa		1756	Portugal	1	11-20-2002	12-18-2002	11-26-2002	60.26
+10398	SAVEA	2	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	11-23-2002	12-21-2002	12-3-2002	89.16
+10399	VAFFE	8	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	3	11-24-2002	12-8-2002	12-2-2002	27.36
+10400	EASTC	1	Eastern Connection	35-King George	London		WX3-6FW	UK	3	11-25-2002	12-23-2002	12-10-2002	83.93
+10401	RATTC	1	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	1	11-25-2002	12-23-2002	12-4-2002	12.51
+10402	ERNSH	8	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	2	11-26-2002	1-7-2003	12-4-2002	67.88
+10403	ERNSH	4	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	3	11-27-2002	12-25-2002	12-3-2002	73.79
+10404	MAGAA	2	Magazzini Alimentari Riuniti	Via Ludovico il Moro 22	Bergamo		24100	Italy	1	11-27-2002	12-25-2002	12-2-2002	155.97
+10405	LINOD	1	LINO-Delicateses	Ave. 5-de Mayo Porlamar	I. de Margarita	Nueva Esparta	4980	Venezuela	1	11-30-2002	12-28-2002	12-16-2002	34.82
+10406	QUEEN	7	Queen Cozinha	Alameda dos Canarios, 891	São Paulo	SP	05487-020	Brazil	1	12-1-2002	1-12-2003	12-7-2002	108.04
+10407	OTTIK	2	Ottilies Kaseladen	Mehrheimerstr. 369	Koln		50739	Germany	2	12-1-2002	12-29-2002	12-24-2002	91.48
+10408	FOLIG	8	Folies gourmandes	184, chaussee de Tournai	Lille		59000	France	1	12-2-2002	12-30-2002	12-8-2002	11.26
+10409	OCEAN	3	Oceano Atlantico Ltda.	Ing. Gustavo Moncada 8585-Piso 20-A	Buenos Aires		1010	Argentina	1	12-3-2002	12-31-2002	12-8-2002	29.83
+10410	BOTTM	3	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	3	12-4-2002	1-1-2003	12-9-2002	2.40
+10411	BOTTM	9	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	3	12-4-2002	1-1-2003	12-15-2002	23.65
+10412	WARTH	8	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	2	12-7-2002	1-4-2003	12-9-2002	3.77
+10413	LAMAI	3	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	2	12-8-2002	1-5-2003	12-10-2002	95.66
+10414	FAMIA	2	Familia Arquibaldo	Rua Oros, 92	São Paulo	SP	05442-030	Brazil	3	12-8-2002	1-5-2003	12-11-2002	21.48
+10415	HUNGC	3	Hungry Coyote Import Store	City Center Plaza 516-Main St.	Elgin	OR	97827	USA	1	12-9-2002	1-6-2003	12-18-2002	0.20
+10416	WARTH	8	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	3	12-10-2002	1-7-2003	12-21-2002	22.72
+10417	SIMOB	4	Simons bistro	Vinbæltet 34	Kobenhavn		1734	Denmark	3	12-10-2002	1-7-2003	12-22-2002	70.29
+10418	QUICK	4	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	1	12-11-2002	1-8-2003	12-18-2002	17.55
+10419	RICSU	4	Richter Supermarkt	Starenweg 5	Geneve		1204	Switzerland	2	12-14-2002	1-11-2003	12-24-2002	137.35
+10420	WELLI	3	Wellington Importadora	Rua do Mercado, 12	Resende	SP	08737-363	Brazil	1	12-15-2002	1-12-2003	12-21-2002	44.12
+10421	QUEDE	8	Que Delicia	Rua da Panificadora, 12	Rio de Janeiro	RJ	02389-673	Brazil	1	12-15-2002	1-26-2003	12-21-2002	99.23
+10422	FRANS	2	Franchi S.p.A.	Via Monte Bianco 34	Torino		10100	Italy	1	12-16-2002	1-13-2003	12-25-2002	3.02
+10423	GOURL	6	Gourmet Lanchonetes	Av. Brasil, 442	Campinas	SP	04876-786	Brazil	3	12-17-2002	12-31-2002	1-18-2003	24.50
+10424	MEREP	7	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	2	12-17-2002	1-14-2003	12-21-2002	370.61
+10425	LAMAI	6	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	2	12-18-2002	1-15-2003	1-8-2003	7.93
+10426	GALED	4	Galeria del gastronomo	Rambla de Cataluna, 23	Barcelona		8022	Spain	1	12-21-2002	1-18-2003	12-31-2002	18.69
+10427	PICCO	4	Piccolo und mehr	Geislweg 14	Salzburg		5020	Austria	2	12-21-2002	1-18-2003	1-25-2003	31.29
+10428	REGGC	7	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	1	12-22-2002	1-19-2003	12-29-2002	11.09
+10429	HUNGO	3	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	2	12-23-2002	2-3-2003	1-1-2003	56.63
+10430	ERNSH	4	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	1	12-24-2002	1-7-2003	12-28-2002	458.78
+10431	BOTTM	4	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	2	12-24-2002	1-7-2003	1-1-2003	44.17
+10432	SPLIR	3	Split Rail Beer & Ale	P.O. Box 555	Lander	WY	82520	USA	2	12-25-2002	1-8-2003	1-1-2003	4.34
+10433	PRINI	3	Princesa Isabel Vinhos	Estrada da saúde n. 58	Lisboa		1756	Portugal	3	12-28-2002	1-25-2003	1-26-2003	73.83
+10434	FOLKO	3	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	2	12-28-2002	1-25-2003	1-7-2003	17.92
+10435	CONSH	8	Consolidated Holdings	Berkeley Gardens 12- Brewery	London		WX1-6LT	UK	2	12-29-2002	2-9-2003	1-1-2003	9.21
+10436	BLONP	3	Blondel pere et fils	24, place Kleber	Strasbourg		67000	France	2	12-30-2002	1-27-2003	1-5-2003	156.66
+10437	WARTH	8	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	1	12-30-2002	1-27-2003	1-6-2003	19.97
+10438	TOMSP	3	Toms Spezialitaten	Luisenstr. 48	Munster		44087	Germany	2	12-31-2002	1-28-2003	1-8-2003	8.24
+10439	MEREP	6	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	3	1-1-2003	1-29-2003	1-4-2003	4.07
+10440	SAVEA	4	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	2	1-4-2003	2-1-2003	1-22-2003	86.53
+10441	OLDWO	3	Old World Delicatessen	2743-Bering St.	Anchorage	AK	99508	USA	2	1-4-2003	2-15-2003	2-5-2003	73.02
+10442	ERNSH	3	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	2	1-5-2003	2-2-2003	1-12-2003	47.94
+10443	REGGC	8	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	1	1-6-2003	2-3-2003	1-8-2003	13.95
+10444	BERGS	3	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	3	1-6-2003	2-3-2003	1-15-2003	3.50
+10445	BERGS	3	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	1	1-7-2003	2-4-2003	1-14-2003	9.30
+10446	TOMSP	6	Toms Spezialitaten	Luisenstr. 48	Munster		44087	Germany	1	1-8-2003	2-5-2003	1-13-2003	14.68
+10447	RICAR	4	Ricardo Adocicados	Av. Copacabana, 267	Rio de Janeiro	RJ	02389-890	Brazil	2	1-8-2003	2-5-2003	1-29-2003	68.66
+10448	RANCH	4	Rancho grande	Av. del Libertador 900	Buenos Aires		1010	Argentina	2	1-11-2003	2-8-2003	1-18-2003	38.82
+10449	BLONP	3	Blondel pere et fils	24, place Kleber	Strasbourg		67000	France	2	1-12-2003	2-9-2003	1-21-2003	53.30
+10450	VICTE	8	Victuailles en stock	2, rue du Commerce	Lyon		69004	France	2	1-13-2003	2-10-2003	2-2-2003	7.23
+10451	QUICK	4	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	3	1-13-2003	1-27-2003	2-3-2003	189.09
+10452	SAVEA	8	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	1	1-14-2003	2-11-2003	1-20-2003	140.26
+10453	AROUT	1	Around the Horn	Brook Farm Stratford St. Mary	Colchester	Essex	CO7-6JX	UK	2	1-15-2003	2-12-2003	1-20-2003	25.36
+10454	LAMAI	4	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	3	1-15-2003	2-12-2003	1-19-2003	2.74
+10455	WARTH	8	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	2	1-18-2003	3-1-2003	1-25-2003	180.45
+10456	KOENE	8	Koniglich Essen	Maubelstr. 90	Brandenburg		14776	Germany	2	1-19-2003	3-2-2003	1-22-2003	8.12
+10457	KOENE	2	Koniglich Essen	Maubelstr. 90	Brandenburg		14776	Germany	1	1-19-2003	2-16-2003	1-25-2003	11.57
+10458	SUPRD	7	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	3	1-20-2003	2-17-2003	1-26-2003	147.06
+10459	VICTE	4	Victuailles en stock	2, rue du Commerce	Lyon		69004	France	2	1-21-2003	2-18-2003	1-22-2003	25.09
+10460	FOLKO	8	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	1	1-22-2003	2-19-2003	1-25-2003	16.27
+10461	LILAS	1	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	3	1-22-2003	2-19-2003	1-27-2003	148.61
+10462	CONSH	2	Consolidated Holdings	Berkeley Gardens 12- Brewery	London		WX1-6LT	UK	1	1-25-2003	2-22-2003	2-9-2003	6.17
+10463	SUPRD	5	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	3	1-26-2003	2-23-2003	1-28-2003	14.78
+10464	FURIB	4	Furia Bacalhau e Frutos do Mar	Jardim das rosas n. 32	Lisboa		1675	Portugal	2	1-26-2003	2-23-2003	2-5-2003	89.00
+10465	VAFFE	1	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	3	1-27-2003	2-24-2003	2-5-2003	145.04
+10466	COMMI	4	Comercio Mineiro	Av. dos Lusiadas, 23	São Paulo	SP	05432-043	Brazil	1	1-28-2003	2-25-2003	2-4-2003	11.93
+10467	MAGAA	8	Magazzini Alimentari Riuniti	Via Ludovico il Moro 22	Bergamo		24100	Italy	2	1-28-2003	2-25-2003	2-2-2003	4.93
+10468	KOENE	3	Koniglich Essen	Maubelstr. 90	Brandenburg		14776	Germany	3	1-29-2003	2-26-2003	2-3-2003	44.12
+10469	WHITC	1	White Clover Markets	1029-- 12th Ave. S.	Seattle	WA	98124	USA	1	2-1-2003	3-1-2003	2-5-2003	60.18
+10470	BONAP	4	Bon app'	12, rue des Bouchers	Marseille		13008	France	2	2-2-2003	3-2-2003	2-5-2003	64.56
+10471	BSBEV	2	B's Beverages	Fauntleroy Circus	London		EC2-5NT	UK	3	2-2-2003	3-2-2003	2-9-2003	45.59
+10472	SEVES	8	Seven Seas Imports	90 Wadhurst Rd.	London		OX15-4NB	UK	1	2-3-2003	3-3-2003	2-10-2003	4.20
+10473	ISLAT	1	Island Trading	Garden House Crowther Way	Hedge End	Lancashire	LA9-PX8	UK	3	2-4-2003	2-18-2003	2-12-2003	16.37
+10474	PERIC	5	Pericles Comidas clasicas	Calle Dr. Jorge Cash 321	Mexico D.F.		5033	Mexico	2	2-4-2003	3-4-2003	2-12-2003	83.49
+10475	SUPRD	9	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	1	2-5-2003	3-5-2003	2-26-2003	68.52
+10476	HILAA	8	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	3	2-8-2003	3-8-2003	2-15-2003	4.41
+10477	PRINI	5	Princesa Isabel Vinhos	Estrada da saúde n. 58	Lisboa		1756	Portugal	2	2-8-2003	3-8-2003	2-16-2003	13.02
+10478	VICTE	2	Victuailles en stock	2, rue du Commerce	Lyon		69004	France	3	2-9-2003	2-23-2003	2-17-2003	4.81
+10479	RATTC	3	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	3	2-10-2003	3-10-2003	2-12-2003	708.95
+10480	FOLIG	6	Folies gourmandes	184, chaussee de Tournai	Lille		59000	France	2	2-11-2003	3-11-2003	2-15-2003	1.35
+10481	RICAR	8	Ricardo Adocicados	Av. Copacabana, 267	Rio de Janeiro	RJ	02389-890	Brazil	2	2-11-2003	3-11-2003	2-16-2003	64.33
+10482	LAZYK	1	Lazy K Kountry Store	12-Orchestra Terrace	Walla Walla	WA	99362	USA	3	2-12-2003	3-12-2003	3-4-2003	7.48
+10483	WHITC	7	White Clover Markets	1029-- 12th Ave. S.	Seattle	WA	98124	USA	2	2-15-2003	3-15-2003	3-19-2003	15.28
+10484	BSBEV	3	B's Beverages	Fauntleroy Circus	London		EC2-5NT	UK	3	2-15-2003	3-15-2003	2-23-2003	6.88
+10485	LINOD	4	LINO-Delicateses	Ave. 5-de Mayo Porlamar	I. de Margarita	Nueva Esparta	4980	Venezuela	2	2-16-2003	3-2-2003	2-22-2003	64.45
+10486	HILAA	1	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	2	2-17-2003	3-17-2003	2-24-2003	30.53
+10487	QUEEN	2	Queen Cozinha	Alameda dos Canarios, 891	São Paulo	SP	05487-020	Brazil	2	2-17-2003	3-17-2003	2-19-2003	71.07
+10488	FRANK	8	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	2	2-18-2003	3-18-2003	2-24-2003	4.93
+10489	PICCO	6	Piccolo und mehr	Geislweg 14	Salzburg		5020	Austria	2	2-19-2003	3-19-2003	3-3-2003	5.29
+10490	HILAA	7	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	2	2-22-2003	3-22-2003	2-25-2003	210.19
+10491	FURIB	8	Furia Bacalhau e Frutos do Mar	Jardim das rosas n. 32	Lisboa		1675	Portugal	3	2-22-2003	3-22-2003	3-2-2003	16.96
+10492	BOTTM	3	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	1	2-23-2003	3-23-2003	3-5-2003	62.89
+10493	LAMAI	4	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	3	2-24-2003	3-24-2003	3-4-2003	10.64
+10494	COMMI	4	Comercio Mineiro	Av. dos Lusiadas, 23	São Paulo	SP	05432-043	Brazil	2	2-24-2003	3-24-2003	3-3-2003	65.99
+10495	LAUGB	3	Laughing Bacchus Wine Cellars	2319-Elm St.	Vancouver	BC	V3F 2K1	Canada	3	2-25-2003	3-25-2003	3-5-2003	4.65
+10496	TRADH	7	Tradicão Hipermercados	Av. Inês de Castro, 414	São Paulo	SP	05634-030	Brazil	2	2-26-2003	3-26-2003	3-1-2003	46.77
+10497	LEHMS	7	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	1	2-26-2003	3-26-2003	3-1-2003	36.21
+10498	HILAA	8	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	2	3-1-2003	3-29-2003	3-5-2003	29.75
+10499	LILAS	4	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	2	3-2-2003	3-30-2003	3-10-2003	102.02
+10500	LAMAI	6	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	1	3-3-2003	3-31-2003	3-11-2003	42.68
+10501	BLAUS	9	Blauer See Delikatessen	Forsterstr. 57	Mannheim		68306	Germany	3	3-3-2003	3-31-2003	3-10-2003	8.85
+10502	PERIC	2	Pericles Comidas clasicas	Calle Dr. Jorge Cash 321	Mexico D.F.		5033	Mexico	1	3-4-2003	4-1-2003	3-23-2003	69.32
+10503	HUNGO	6	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	2	3-5-2003	4-2-2003	3-10-2003	16.74
+10504	WHITC	4	White Clover Markets	1029-- 12th Ave. S.	Seattle	WA	98124	USA	3	3-5-2003	4-2-2003	3-12-2003	59.13
+10505	MEREP	3	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	3	3-8-2003	4-5-2003	3-15-2003	7.13
+10506	KOENE	9	Koniglich Essen	Maubelstr. 90	Brandenburg		14776	Germany	2	3-9-2003	4-6-2003	3-26-2003	21.19
+10507	ANTON	7	Antonio Moreno Taqueria	Mataderos  2312	Mexico D.F.		5023	Mexico	1	3-9-2003	4-6-2003	3-16-2003	47.45
+10508	OTTIK	1	Ottilies Kaseladen	Mehrheimerstr. 369	Koln		50739	Germany	2	3-10-2003	4-7-2003	4-6-2003	4.99
+10509	BLAUS	4	Blauer See Delikatessen	Forsterstr. 57	Mannheim		68306	Germany	1	3-11-2003	4-8-2003	3-23-2003	0.15
+10510	SAVEA	6	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	3-12-2003	4-9-2003	3-22-2003	367.63
+10511	BONAP	4	Bon app'	12, rue des Bouchers	Marseille		13008	France	3	3-12-2003	4-9-2003	3-15-2003	350.64
+10512	FAMIA	7	Familia Arquibaldo	Rua Oros, 92	São Paulo	SP	05442-030	Brazil	2	3-15-2003	4-12-2003	3-18-2003	3.53
+10513	WANDK	7	Die Wandernde Kuh	Adenauerallee 900	Stuttgart		70563	Germany	1	3-16-2003	4-27-2003	3-22-2003	105.65
+10514	ERNSH	3	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	2	3-16-2003	4-13-2003	4-9-2003	789.95
+10515	QUICK	2	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	1	3-17-2003	3-31-2003	4-16-2003	204.47
+10516	HUNGO	2	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	3	3-18-2003	4-15-2003	3-25-2003	62.78
+10517	NORTS	3	North/South	South House 300 Queensbridge	London		SW7-1RZ	UK	3	3-18-2003	4-15-2003	3-23-2003	32.07
+10518	TORTU	4	Tortuga Restaurante	Avda. Azteca 123	Mexico D.F.		5033	Mexico	2	3-19-2003	4-2-2003	3-29-2003	218.15
+10519	CHOPS	6	Chop-suey Chinese	Hauptstr. 31	Bern		3012	Switzerland	3	3-22-2003	4-19-2003	3-25-2003	91.76
+10520	SANTG	7	Sante Gourmet	Erling Skakkes gate 78	Stavern		4110	Norway	1	3-23-2003	4-20-2003	3-25-2003	13.37
+10521	CACTU	8	Cactus Comidas para llevar	Cerrito 333	Buenos Aires		1010	Argentina	2	3-23-2003	4-20-2003	3-26-2003	17.22
+10522	LEHMS	4	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	1	3-24-2003	4-21-2003	3-30-2003	45.33
+10523	SEVES	7	Seven Seas Imports	90 Wadhurst Rd.	London		OX15-4NB	UK	2	3-25-2003	4-22-2003	4-23-2003	77.63
+10524	BERGS	1	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	2	3-25-2003	4-22-2003	3-31-2003	244.79
+10525	BONAP	1	Bon app'	12, rue des Bouchers	Marseille		13008	France	2	3-26-2003	4-23-2003	4-16-2003	11.06
+10526	WARTH	4	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	2	3-29-2003	4-26-2003	4-8-2003	58.59
+10527	QUICK	7	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	1	3-29-2003	4-26-2003	3-31-2003	41.90
+10528	GREAL	6	Great Lakes Food Market	2732-Baker Blvd.	Eugene	OR	97403	USA	2	3-30-2003	4-13-2003	4-2-2003	3.35
+10529	MAISD	5	Maison Dewey	Rue Joseph-Bens 532	Bruxelles		B-1180	Belgium	2	3-31-2003	4-28-2003	4-2-2003	66.69
+10530	PICCO	3	Piccolo und mehr	Geislweg 14	Salzburg		5020	Austria	2	4-1-2003	4-29-2003	4-5-2003	339.22
+10531	OCEAN	7	Oceano Atlantico Ltda.	Ing. Gustavo Moncada 8585-Piso 20-A	Buenos Aires		1010	Argentina	1	4-1-2003	4-29-2003	4-12-2003	8.12
+10532	EASTC	7	Eastern Connection	35-King George	London		WX3-6FW	UK	3	4-2-2003	4-30-2003	4-5-2003	74.46
+10533	FOLKO	8	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	1	4-5-2003	5-3-2003	4-15-2003	188.04
+10534	LEHMS	8	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	2	4-5-2003	5-3-2003	4-7-2003	27.94
+10535	ANTON	4	Antonio Moreno Taqueria	Mataderos  2312	Mexico D.F.		5023	Mexico	1	4-6-2003	5-4-2003	4-14-2003	15.64
+10536	LEHMS	3	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	2	4-7-2003	5-5-2003	4-30-2003	58.88
+10537	RICSU	1	Richter Supermarkt	Starenweg 5	Geneve		1204	Switzerland	1	4-7-2003	4-21-2003	4-12-2003	78.85
+10538	BSBEV	9	B's Beverages	Fauntleroy Circus	London		EC2-5NT	UK	3	4-8-2003	5-6-2003	4-9-2003	4.87
+10539	BSBEV	6	B's Beverages	Fauntleroy Circus	London		EC2-5NT	UK	3	4-9-2003	5-7-2003	4-16-2003	12.36
+10540	QUICK	3	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	3	4-12-2003	5-10-2003	5-7-2003	1,007.64
+10541	HANAR	2	Hanari Carnes	Rua do Paco, 67	Rio de Janeiro	RJ	05454-876	Brazil	1	4-12-2003	5-10-2003	4-22-2003	68.65
+10542	KOENE	1	Koniglich Essen	Maubelstr. 90	Brandenburg		14776	Germany	3	4-13-2003	5-11-2003	4-19-2003	10.95
+10543	LILAS	8	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	2	4-14-2003	5-12-2003	4-16-2003	48.17
+10544	LONEP	4	Lonesome Pine Restaurant	89-Chiaroscuro Rd.	Portland	OR	97219	USA	1	4-14-2003	5-12-2003	4-23-2003	24.91
+10545	LAZYK	8	Lazy K Kountry Store	12-Orchestra Terrace	Walla Walla	WA	99362	USA	2	4-15-2003	5-13-2003	5-20-2003	11.92
+10546	VICTE	1	Victuailles en stock	2, rue du Commerce	Lyon		69004	France	3	4-16-2003	5-14-2003	4-20-2003	194.72
+10547	SEVES	3	Seven Seas Imports	90 Wadhurst Rd.	London		OX15-4NB	UK	2	4-16-2003	5-14-2003	4-26-2003	178.43
+10548	TOMSP	3	Toms Spezialitaten	Luisenstr. 48	Munster		44087	Germany	2	4-19-2003	5-17-2003	4-26-2003	1.43
+10549	QUICK	5	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	1	4-20-2003	5-4-2003	4-23-2003	171.24
+10550	GODOS	7	Godos Cocina Tipica	C/ Romero, 33	Sevilla		41101	Spain	3	4-21-2003	5-19-2003	4-30-2003	4.32
+10551	FURIB	4	Furia Bacalhau e Frutos do Mar	Jardim das rosas n. 32	Lisboa		1675	Portugal	3	4-21-2003	6-2-2003	4-30-2003	72.95
+10552	HILAA	2	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	1	4-22-2003	5-20-2003	4-29-2003	83.22
+10553	WARTH	2	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	2	4-23-2003	5-21-2003	4-27-2003	149.49
+10554	OTTIK	4	Ottilies Kaseladen	Mehrheimerstr. 369	Koln		50739	Germany	3	4-23-2003	5-21-2003	4-29-2003	120.97
+10555	SAVEA	6	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	4-26-2003	5-24-2003	4-28-2003	252.49
+10556	SIMOB	2	Simons bistro	Vinbæltet 34	Kobenhavn		1734	Denmark	1	4-27-2003	6-8-2003	5-7-2003	9.80
+10557	LEHMS	9	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	2	4-27-2003	5-11-2003	4-30-2003	96.72
+10558	AROUT	1	Around the Horn	Brook Farm Stratford St. Mary	Colchester	Essex	CO7-6JX	UK	2	4-28-2003	5-26-2003	5-4-2003	72.97
+10559	BLONP	6	Blondel pere et fils	24, place Kleber	Strasbourg		67000	France	1	4-29-2003	5-27-2003	5-7-2003	8.05
+10560	FRANK	8	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	1	4-30-2003	5-28-2003	5-3-2003	36.65
+10561	FOLKO	2	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	2	4-30-2003	5-28-2003	5-3-2003	242.21
+10562	REGGC	1	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	1	5-3-2003	5-31-2003	5-6-2003	22.95
+10563	RICAR	2	Ricardo Adocicados	Av. Copacabana, 267	Rio de Janeiro	RJ	02389-890	Brazil	2	5-4-2003	6-15-2003	5-18-2003	60.43
+10564	RATTC	4	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	3	5-4-2003	6-1-2003	5-10-2003	13.75
+10565	MEREP	8	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	2	5-5-2003	6-2-2003	5-12-2003	7.15
+10566	BLONP	9	Blondel pere et fils	24, place Kleber	Strasbourg		67000	France	1	5-6-2003	6-3-2003	5-12-2003	88.40
+10567	HUNGO	1	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	1	5-6-2003	6-3-2003	5-11-2003	33.97
+10568	GALED	3	Galeria del gastronomo	Rambla de Cataluna, 23	Barcelona		8022	Spain	3	5-7-2003	6-4-2003	6-2-2003	6.54
+10569	RATTC	5	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	1	5-10-2003	6-7-2003	6-4-2003	58.98
+10570	MEREP	3	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	3	5-11-2003	6-8-2003	5-13-2003	188.99
+10571	ERNSH	8	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	3	5-11-2003	6-22-2003	5-28-2003	26.06
+10572	BERGS	3	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	2	5-12-2003	6-9-2003	5-19-2003	116.43
+10573	ANTON	7	Antonio Moreno Taqueria	Mataderos  2312	Mexico D.F.		5023	Mexico	3	5-13-2003	6-10-2003	5-14-2003	84.84
+10574	TRAIH	4	Trail's Head Gourmet Provisioners	722-DaVinci Blvd.	Kirkland	WA	98034	USA	2	5-13-2003	6-10-2003	5-24-2003	37.60
+10575	MORGK	5	Morgenstern Gesundkost	Heerstr. 22	Leipzig		4179	Germany	1	5-14-2003	5-28-2003	5-24-2003	127.34
+10576	TORTU	3	Tortuga Restaurante	Avda. Azteca 123	Mexico D.F.		5033	Mexico	3	5-17-2003	5-31-2003	5-24-2003	18.56
+10577	TRAIH	9	Trail's Head Gourmet Provisioners	722-DaVinci Blvd.	Kirkland	WA	98034	USA	2	5-17-2003	6-28-2003	5-24-2003	25.41
+10578	BSBEV	4	B's Beverages	Fauntleroy Circus	London		EC2-5NT	UK	3	5-18-2003	6-15-2003	6-18-2003	29.60
+10579	LETSS	1	Let's Stop N Shop	87-Polk St. Suite 5	San Francisco	CA	94117	USA	2	5-19-2003	6-16-2003	5-28-2003	13.73
+10580	OTTIK	4	Ottilies Kaseladen	Mehrheimerstr. 369	Koln		50739	Germany	3	5-20-2003	6-17-2003	5-25-2003	75.89
+10581	FAMIA	3	Familia Arquibaldo	Rua Oros, 92	São Paulo	SP	05442-030	Brazil	1	5-20-2003	6-17-2003	5-26-2003	3.01
+10582	BLAUS	3	Blauer See Delikatessen	Forsterstr. 57	Mannheim		68306	Germany	2	5-21-2003	6-18-2003	6-7-2003	27.71
+10583	WARTH	2	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	2	5-24-2003	6-21-2003	5-28-2003	7.28
+10584	BLONP	4	Blondel pere et fils	24, place Kleber	Strasbourg		67000	France	1	5-24-2003	6-21-2003	5-28-2003	59.14
+10585	WELLI	7	Wellington Importadora	Rua do Mercado, 12	Resende	SP	08737-363	Brazil	1	5-25-2003	6-22-2003	6-3-2003	13.41
+10586	REGGC	9	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	1	5-26-2003	6-23-2003	6-2-2003	0.48
+10587	QUEDE	1	Que Delicia	Rua da Panificadora, 12	Rio de Janeiro	RJ	02389-673	Brazil	1	5-26-2003	6-23-2003	6-2-2003	62.52
+10588	QUICK	2	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	3	5-27-2003	6-24-2003	6-3-2003	194.67
+10589	GREAL	8	Great Lakes Food Market	2732-Baker Blvd.	Eugene	OR	97403	USA	2	5-28-2003	6-25-2003	6-7-2003	4.42
+10590	MEREP	4	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	3	5-31-2003	6-28-2003	6-7-2003	44.77
+10591	VAFFE	1	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	1	5-31-2003	6-14-2003	6-9-2003	55.92
+10592	LEHMS	3	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	1	6-1-2003	6-29-2003	6-9-2003	32.10
+10593	LEHMS	7	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	2	6-2-2003	6-30-2003	7-7-2003	174.20
+10594	OLDWO	3	Old World Delicatessen	2743-Bering St.	Anchorage	AK	99508	USA	2	6-2-2003	6-30-2003	6-9-2003	5.24
+10595	ERNSH	2	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	1	6-3-2003	7-1-2003	6-7-2003	96.78
+10596	WHITC	8	White Clover Markets	1029-- 12th Ave. S.	Seattle	WA	98124	USA	1	6-4-2003	7-2-2003	7-6-2003	16.34
+10597	PICCO	7	Piccolo und mehr	Geislweg 14	Salzburg		5020	Austria	3	6-4-2003	7-2-2003	6-11-2003	35.12
+10598	RATTC	1	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	3	6-7-2003	7-5-2003	6-11-2003	44.42
+10599	BSBEV	6	B's Beverages	Fauntleroy Circus	London		EC2-5NT	UK	3	6-8-2003	7-20-2003	6-14-2003	29.98
+10600	HUNGC	4	Hungry Coyote Import Store	City Center Plaza 516-Main St.	Elgin	OR	97827	USA	1	6-9-2003	7-7-2003	6-14-2003	45.13
+10601	HILAA	7	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	1	6-9-2003	7-21-2003	6-15-2003	58.30
+10602	VAFFE	8	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	2	6-10-2003	7-8-2003	6-15-2003	2.92
+10603	SAVEA	8	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	2	6-11-2003	7-9-2003	7-2-2003	48.77
+10604	FURIB	1	Furia Bacalhau e Frutos do Mar	Jardim das rosas n. 32	Lisboa		1675	Portugal	1	6-11-2003	7-9-2003	6-22-2003	7.46
+10605	MEREP	1	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	2	6-14-2003	7-12-2003	6-22-2003	379.13
+10606	TRADH	4	Tradicão Hipermercados	Av. Inês de Castro, 414	São Paulo	SP	05634-030	Brazil	3	6-15-2003	7-13-2003	6-24-2003	79.40
+10607	SAVEA	5	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	1	6-15-2003	7-13-2003	6-18-2003	200.24
+10608	TOMSP	4	Toms Spezialitaten	Luisenstr. 48	Munster		44087	Germany	2	6-16-2003	7-14-2003	6-25-2003	27.79
+10609	DUMON	7	Du monde entier	67, rue des Cinquante Otages	Nantes		44000	France	2	6-17-2003	7-15-2003	6-23-2003	1.85
+10610	LAMAI	8	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	1	6-18-2003	7-16-2003	6-30-2003	26.78
+10611	WOLZA	6	Wolski Zajazd	ul. Filtrowa 68	Warszawa		01-012	Poland	2	6-18-2003	7-16-2003	6-25-2003	80.65
+10612	SAVEA	1	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	2	6-21-2003	7-19-2003	6-25-2003	544.08
+10613	HILAA	4	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	2	6-22-2003	7-20-2003	6-25-2003	8.11
+10614	BLAUS	8	Blauer See Delikatessen	Forsterstr. 57	Mannheim		68306	Germany	3	6-22-2003	7-20-2003	6-25-2003	1.93
+10615	WILMK	2	Wilman Kala	Keskuskatu 45	Helsinki		21240	Finland	3	6-23-2003	7-21-2003	6-30-2003	0.75
+10616	GREAL	1	Great Lakes Food Market	2732-Baker Blvd.	Eugene	OR	97403	USA	2	6-24-2003	7-22-2003	6-29-2003	116.53
+10617	GREAL	4	Great Lakes Food Market	2732-Baker Blvd.	Eugene	OR	97403	USA	2	6-24-2003	7-22-2003	6-28-2003	18.53
+10618	MEREP	1	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	1	6-25-2003	8-6-2003	7-2-2003	154.68
+10619	MEREP	3	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	3	6-28-2003	7-26-2003	7-1-2003	91.05
+10620	LAUGB	2	Laughing Bacchus Wine Cellars	2319-Elm St.	Vancouver	BC	V3F 2K1	Canada	3	6-29-2003	7-27-2003	7-8-2003	0.94
+10621	ISLAT	4	Island Trading	Garden House Crowther Way	Hedge End	Lancashire	LA9-PX8	UK	2	6-29-2003	7-27-2003	7-5-2003	23.73
+10622	RICAR	4	Ricardo Adocicados	Av. Copacabana, 267	Rio de Janeiro	RJ	02389-890	Brazil	3	6-30-2003	7-28-2003	7-5-2003	50.97
+10623	FRANK	8	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	2	7-1-2003	7-29-2003	7-6-2003	97.18
+10624	THECR	4	The Cracker Box	55-Grizzly Peak Rd.	Butte	MT	59801	USA	2	7-1-2003	7-29-2003	7-13-2003	94.80
+10625	ANATR	3	Ana Trujillo Emparedados y helados	Avda. de la Constitucion 2222	Mexico D.F.		5021	Mexico	1	7-2-2003	7-30-2003	7-8-2003	43.90
+10626	BERGS	1	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	2	7-5-2003	8-2-2003	7-14-2003	138.69
+10627	SAVEA	8	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	7-5-2003	8-16-2003	7-15-2003	107.46
+10628	BLONP	4	Blondel pere et fils	24, place Kleber	Strasbourg		67000	France	3	7-6-2003	8-3-2003	7-14-2003	30.36
+10629	GODOS	4	Godos Cocina Tipica	C/ Romero, 33	Sevilla		41101	Spain	3	7-6-2003	8-3-2003	7-14-2003	85.46
+10630	KOENE	1	Koniglich Essen	Maubelstr. 90	Brandenburg		14776	Germany	2	7-7-2003	8-4-2003	7-13-2003	32.35
+10631	LAMAI	8	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	1	7-8-2003	8-5-2003	7-9-2003	0.87
+10632	WANDK	8	Die Wandernde Kuh	Adenauerallee 900	Stuttgart		70563	Germany	1	7-8-2003	8-5-2003	7-13-2003	41.38
+10633	ERNSH	7	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	3	7-9-2003	8-6-2003	7-12-2003	477.90
+10634	FOLIG	4	Folies gourmandes	184, chaussee de Tournai	Lille		59000	France	3	7-9-2003	8-6-2003	7-15-2003	487.38
+10635	MAGAA	8	Magazzini Alimentari Riuniti	Via Ludovico il Moro 22	Bergamo		24100	Italy	3	7-12-2003	8-9-2003	7-15-2003	47.46
+10636	WARTH	4	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	1	7-13-2003	8-10-2003	7-20-2003	1.15
+10637	QUEEN	6	Queen Cozinha	Alameda dos Canarios, 891	São Paulo	SP	05487-020	Brazil	1	7-13-2003	8-10-2003	7-20-2003	201.29
+10638	LINOD	3	LINO-Delicateses	Ave. 5-de Mayo Porlamar	I. de Margarita	Nueva Esparta	4980	Venezuela	1	7-14-2003	8-11-2003	7-26-2003	158.44
+10639	SANTG	7	Sante Gourmet	Erling Skakkes gate 78	Stavern		4110	Norway	3	7-14-2003	8-11-2003	7-21-2003	38.64
+10640	WANDK	4	Die Wandernde Kuh	Adenauerallee 900	Stuttgart		70563	Germany	1	7-15-2003	8-12-2003	7-22-2003	23.55
+10641	HILAA	4	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	2	7-16-2003	8-13-2003	7-20-2003	179.61
+10642	SIMOB	7	Simons bistro	Vinbæltet 34	Kobenhavn		1734	Denmark	3	7-16-2003	8-13-2003	7-30-2003	41.89
+10643	ALFKI	6	Alfred's Futterkiste	Obere Str. 57	Berlin		12209	Germany	1	7-19-2003	8-16-2003	7-27-2003	29.46
+10644	WELLI	3	Wellington Importadora	Rua do Mercado, 12	Resende	SP	08737-363	Brazil	2	7-19-2003	8-16-2003	7-26-2003	0.14
+10645	HANAR	4	Hanari Carnes	Rua do Paco, 67	Rio de Janeiro	RJ	05454-876	Brazil	1	7-20-2003	8-17-2003	7-27-2003	12.41
+10646	HUNGO	9	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	3	7-21-2003	9-1-2003	7-28-2003	142.33
+10647	QUEDE	4	Que Delicia	Rua da Panificadora, 12	Rio de Janeiro	RJ	02389-673	Brazil	2	7-21-2003	8-4-2003	7-28-2003	45.54
+10648	RICAR	5	Ricardo Adocicados	Av. Copacabana, 267	Rio de Janeiro	RJ	02389-890	Brazil	2	7-22-2003	9-2-2003	8-3-2003	14.25
+10649	MAISD	5	Maison Dewey	Rue Joseph-Bens 532	Bruxelles		B-1180	Belgium	3	7-22-2003	8-19-2003	7-23-2003	6.20
+10650	FAMIA	5	Familia Arquibaldo	Rua Oros, 92	São Paulo	SP	05442-030	Brazil	3	7-23-2003	8-20-2003	7-28-2003	176.81
+10651	WANDK	8	Die Wandernde Kuh	Adenauerallee 900	Stuttgart		70563	Germany	2	7-26-2003	8-23-2003	8-5-2003	20.60
+10652	GOURL	4	Gourmet Lanchonetes	Av. Brasil, 442	Campinas	SP	04876-786	Brazil	2	7-26-2003	8-23-2003	8-2-2003	7.14
+10653	FRANK	1	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	1	7-27-2003	8-24-2003	8-13-2003	93.25
+10654	BERGS	5	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	1	7-27-2003	8-24-2003	8-5-2003	55.26
+10655	REGGC	1	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	2	7-28-2003	8-25-2003	8-5-2003	4.41
+10656	GREAL	6	Great Lakes Food Market	2732-Baker Blvd.	Eugene	OR	97403	USA	1	7-29-2003	8-26-2003	8-4-2003	57.15
+10657	SAVEA	2	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	2	7-29-2003	8-26-2003	8-9-2003	352.69
+10658	QUICK	4	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	1	7-30-2003	8-27-2003	8-2-2003	364.15
+10659	QUEEN	7	Queen Cozinha	Alameda dos Canarios, 891	São Paulo	SP	05487-020	Brazil	2	7-30-2003	8-27-2003	8-4-2003	105.81
+10660	HUNGC	8	Hungry Coyote Import Store	City Center Plaza 516-Main St.	Elgin	OR	97827	USA	1	8-2-2003	8-30-2003	9-8-2003	111.29
+10661	HUNGO	7	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	3	8-3-2003	8-31-2003	8-9-2003	17.55
+10662	LONEP	3	Lonesome Pine Restaurant	89-Chiaroscuro Rd.	Portland	OR	97219	USA	2	8-3-2003	8-31-2003	8-12-2003	1.28
+10663	BONAP	2	Bon app'	12, rue des Bouchers	Marseille		13008	France	2	8-4-2003	8-18-2003	8-27-2003	113.15
+10664	FURIB	1	Furia Bacalhau e Frutos do Mar	Jardim das rosas n. 32	Lisboa		1675	Portugal	3	8-4-2003	9-1-2003	8-13-2003	1.27
+10665	LONEP	1	Lonesome Pine Restaurant	89-Chiaroscuro Rd.	Portland	OR	97219	USA	2	8-5-2003	9-2-2003	8-11-2003	26.31
+10666	RICSU	7	Richter Supermarkt	Starenweg 5	Geneve		1204	Switzerland	2	8-6-2003	9-3-2003	8-16-2003	232.42
+10667	ERNSH	7	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	1	8-6-2003	9-3-2003	8-13-2003	78.09
+10668	WANDK	1	Die Wandernde Kuh	Adenauerallee 900	Stuttgart		70563	Germany	2	8-9-2003	9-6-2003	8-17-2003	47.22
+10669	SIMOB	2	Simons bistro	Vinbæltet 34	Kobenhavn		1734	Denmark	1	8-9-2003	9-6-2003	8-16-2003	24.39
+10670	FRANK	4	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	1	8-10-2003	9-7-2003	8-12-2003	203.48
+10671	FRANR	1	France restauration	54, rue Royale	Nantes		44000	France	1	8-11-2003	9-8-2003	8-18-2003	30.34
+10672	BERGS	9	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	2	8-11-2003	8-25-2003	8-20-2003	95.75
+10673	WILMK	2	Wilman Kala	Keskuskatu 45	Helsinki		21240	Finland	1	8-12-2003	9-9-2003	8-13-2003	22.76
+10674	ISLAT	4	Island Trading	Garden House Crowther Way	Hedge End	Lancashire	LA9-PX8	UK	2	8-12-2003	9-9-2003	8-24-2003	0.90
+10675	FRANK	5	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	2	8-13-2003	9-10-2003	8-17-2003	31.85
+10676	TORTU	2	Tortuga Restaurante	Avda. Azteca 123	Mexico D.F.		5033	Mexico	2	8-16-2003	9-13-2003	8-23-2003	2.01
+10677	ANTON	1	Antonio Moreno Taqueria	Mataderos  2312	Mexico D.F.		5023	Mexico	3	8-16-2003	9-13-2003	8-20-2003	4.03
+10678	SAVEA	7	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	8-17-2003	9-14-2003	9-9-2003	388.98
+10679	BLONP	8	Blondel pere et fils	24, place Kleber	Strasbourg		67000	France	3	8-17-2003	9-14-2003	8-24-2003	27.94
+10680	OLDWO	1	Old World Delicatessen	2743-Bering St.	Anchorage	AK	99508	USA	1	8-18-2003	9-15-2003	8-20-2003	26.61
+10681	GREAL	3	Great Lakes Food Market	2732-Baker Blvd.	Eugene	OR	97403	USA	3	8-19-2003	9-16-2003	8-24-2003	76.13
+10682	ANTON	3	Antonio Moreno Taqueria	Mataderos  2312	Mexico D.F.		5023	Mexico	2	8-19-2003	9-16-2003	8-25-2003	36.13
+10683	DUMON	2	Du monde entier	67, rue des Cinquante Otages	Nantes		44000	France	1	8-20-2003	9-17-2003	8-25-2003	4.40
+10684	OTTIK	3	Ottilies Kaseladen	Mehrheimerstr. 369	Koln		50739	Germany	1	8-20-2003	9-17-2003	8-24-2003	145.63
+10685	GOURL	4	Gourmet Lanchonetes	Av. Brasil, 442	Campinas	SP	04876-786	Brazil	2	8-23-2003	9-6-2003	8-27-2003	33.75
+10686	PICCO	2	Piccolo und mehr	Geislweg 14	Salzburg		5020	Austria	1	8-24-2003	9-21-2003	9-1-2003	96.50
+10687	HUNGO	9	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	2	8-24-2003	9-21-2003	9-23-2003	296.43
+10688	VAFFE	4	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	2	8-25-2003	9-8-2003	8-31-2003	299.09
+10689	BERGS	1	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	2	8-25-2003	9-22-2003	8-31-2003	13.42
+10690	HANAR	1	Hanari Carnes	Rua do Paco, 67	Rio de Janeiro	RJ	05454-876	Brazil	1	8-26-2003	9-23-2003	8-27-2003	15.80
+10691	QUICK	2	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	2	8-27-2003	10-8-2003	9-15-2003	810.05
+10692	ALFKI	4	Alfred's Futterkiste	Obere Str. 57	Berlin		12209	Germany	2	8-27-2003	9-24-2003	9-6-2003	61.02
+10693	WHITC	3	White Clover Markets	1029-- 12th Ave. S.	Seattle	WA	98124	USA	3	8-30-2003	9-13-2003	9-3-2003	139.34
+10694	QUICK	8	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	3	8-30-2003	9-27-2003	9-2-2003	398.36
+10695	WILMK	7	Wilman Kala	Keskuskatu 45	Helsinki		21240	Finland	1	8-31-2003	10-12-2003	9-7-2003	16.72
+10696	WHITC	8	White Clover Markets	1029-- 12th Ave. S.	Seattle	WA	98124	USA	3	9-1-2003	10-13-2003	9-7-2003	102.55
+10697	LINOD	3	LINO-Delicateses	Ave. 5-de Mayo Porlamar	I. de Margarita	Nueva Esparta	4980	Venezuela	1	9-1-2003	9-29-2003	9-7-2003	45.52
+10698	ERNSH	4	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	1	9-2-2003	9-30-2003	9-10-2003	272.47
+10699	MORGK	3	Morgenstern Gesundkost	Heerstr. 22	Leipzig		4179	Germany	3	9-2-2003	9-30-2003	9-6-2003	0.58
+10700	SAVEA	3	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	1	9-3-2003	10-1-2003	9-9-2003	65.10
+10701	HUNGO	6	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	3	9-6-2003	9-20-2003	9-8-2003	220.31
+10702	ALFKI	4	Alfred's Futterkiste	Obere Str. 57	Berlin		12209	Germany	1	9-6-2003	10-18-2003	9-14-2003	23.94
+10703	FOLKO	6	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	2	9-7-2003	10-5-2003	9-13-2003	152.30
+10704	QUEEN	6	Queen Cozinha	Alameda dos Canarios, 891	São Paulo	SP	05487-020	Brazil	1	9-7-2003	10-5-2003	10-1-2003	4.78
+10705	HILAA	9	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	2	9-8-2003	10-6-2003	10-12-2003	3.52
+10706	OLDWO	8	Old World Delicatessen	2743-Bering St.	Anchorage	AK	99508	USA	3	9-9-2003	10-7-2003	9-14-2003	135.63
+10707	AROUT	4	Around the Horn	Brook Farm Stratford St. Mary	Colchester	Essex	CO7-6JX	UK	3	9-9-2003	9-23-2003	9-16-2003	21.74
+10708	THEBI	6	The Big Cheese	89-Jefferson Way Suite 2	Portland	OR	97201	USA	2	9-10-2003	10-22-2003	9-29-2003	2.96
+10709	GOURL	1	Gourmet Lanchonetes	Av. Brasil, 442	Campinas	SP	04876-786	Brazil	3	9-10-2003	10-8-2003	10-14-2003	210.80
+10710	FRANS	1	Franchi S.p.A.	Via Monte Bianco 34	Torino		10100	Italy	1	9-13-2003	10-11-2003	9-16-2003	4.98
+10711	SAVEA	5	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	2	9-14-2003	10-26-2003	9-22-2003	52.41
+10712	HUNGO	3	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	1	9-14-2003	10-12-2003	9-24-2003	89.93
+10713	SAVEA	1	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	1	9-15-2003	10-13-2003	9-17-2003	167.05
+10714	SAVEA	5	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	9-15-2003	10-13-2003	9-20-2003	24.49
+10715	BONAP	3	Bon app'	12, rue des Bouchers	Marseille		13008	France	1	9-16-2003	9-30-2003	9-22-2003	63.20
+10716	RANCH	4	Rancho grande	Av. del Libertador 900	Buenos Aires		1010	Argentina	2	9-17-2003	10-15-2003	9-20-2003	22.57
+10717	FRANK	1	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	2	9-17-2003	10-15-2003	9-22-2003	59.25
+10718	KOENE	1	Koniglich Essen	Maubelstr. 90	Brandenburg		14776	Germany	3	9-20-2003	10-18-2003	9-22-2003	170.88
+10719	LETSS	8	Let's Stop N Shop	87-Polk St. Suite 5	San Francisco	CA	94117	USA	2	9-20-2003	10-18-2003	9-29-2003	51.44
+10720	QUEDE	8	Que Delicia	Rua da Panificadora, 12	Rio de Janeiro	RJ	02389-673	Brazil	2	9-21-2003	10-5-2003	9-29-2003	9.53
+10721	QUICK	5	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	3	9-22-2003	10-20-2003	9-24-2003	48.92
+10722	SAVEA	8	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	1	9-22-2003	11-3-2003	9-28-2003	74.58
+10723	WHITC	3	White Clover Markets	1029-- 12th Ave. S.	Seattle	WA	98124	USA	1	9-23-2003	10-21-2003	10-19-2003	21.72
+10724	MEREP	8	Mere Paillarde	43-rue St. Laurent	Montreal	Quebec	H1J 1C3	Canada	2	9-23-2003	11-4-2003	9-29-2003	57.75
+10725	FAMIA	4	Familia Arquibaldo	Rua Oros, 92	São Paulo	SP	05442-030	Brazil	3	9-24-2003	10-22-2003	9-29-2003	10.83
+10726	EASTC	4	Eastern Connection	35-King George	London		WX3-6FW	UK	1	9-27-2003	10-11-2003	10-29-2003	16.56
+10727	REGGC	2	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	1	9-27-2003	10-25-2003	10-29-2003	89.90
+10728	QUEEN	4	Queen Cozinha	Alameda dos Canarios, 891	São Paulo	SP	05487-020	Brazil	2	9-28-2003	10-26-2003	10-5-2003	58.33
+10729	LINOD	8	LINO-Delicateses	Ave. 5-de Mayo Porlamar	I. de Margarita	Nueva Esparta	4980	Venezuela	3	9-28-2003	11-9-2003	10-8-2003	141.06
+10730	BONAP	5	Bon app'	12, rue des Bouchers	Marseille		13008	France	1	9-29-2003	10-27-2003	10-8-2003	20.12
+10731	CHOPS	7	Chop-suey Chinese	Hauptstr. 31	Bern		3012	Switzerland	1	9-30-2003	10-28-2003	10-8-2003	96.65
+10732	BONAP	3	Bon app'	12, rue des Bouchers	Marseille		13008	France	1	9-30-2003	10-28-2003	10-1-2003	16.97
+10733	BERGS	1	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	3	10-1-2003	10-29-2003	10-4-2003	110.11
+10734	GOURL	2	Gourmet Lanchonetes	Av. Brasil, 442	Campinas	SP	04876-786	Brazil	3	10-1-2003	10-29-2003	10-6-2003	1.63
+10735	LETSS	6	Let's Stop N Shop	87-Polk St. Suite 5	San Francisco	CA	94117	USA	2	10-4-2003	11-1-2003	10-15-2003	45.97
+10736	HUNGO	9	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	2	10-5-2003	11-2-2003	10-15-2003	44.10
+10737	VINET	2	Vins et alcools Chevalier	59-rue de l'Abbaye	Reims		51100	France	2	10-5-2003	11-2-2003	10-12-2003	7.79
+10738	SPECD	2	Specialites du monde	25, rue Lauriston	Paris		75016	France	1	10-6-2003	11-3-2003	10-12-2003	2.91
+10739	VINET	3	Vins et alcools Chevalier	59-rue de l'Abbaye	Reims		51100	France	3	10-6-2003	11-3-2003	10-11-2003	11.08
+10740	WHITC	4	White Clover Markets	1029-- 12th Ave. S.	Seattle	WA	98124	USA	2	10-7-2003	11-4-2003	10-19-2003	81.88
+10741	AROUT	4	Around the Horn	Brook Farm Stratford St. Mary	Colchester	Essex	CO7-6JX	UK	3	10-8-2003	10-22-2003	10-12-2003	10.96
+10742	BOTTM	3	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	3	10-8-2003	11-5-2003	10-12-2003	243.73
+10743	AROUT	1	Around the Horn	Brook Farm Stratford St. Mary	Colchester	Essex	CO7-6JX	UK	2	10-11-2003	11-8-2003	10-15-2003	23.72
+10744	VAFFE	6	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	1	10-11-2003	11-8-2003	10-18-2003	69.19
+10745	QUICK	9	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	1	10-12-2003	11-9-2003	10-21-2003	3.52
+10746	CHOPS	1	Chop-suey Chinese	Hauptstr. 31	Bern		3012	Switzerland	3	10-13-2003	11-10-2003	10-15-2003	31.43
+10747	PICCO	6	Piccolo und mehr	Geislweg 14	Salzburg		5020	Austria	1	10-13-2003	11-10-2003	10-20-2003	117.33
+10748	SAVEA	3	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	1	10-14-2003	11-11-2003	10-22-2003	232.55
+10749	ISLAT	4	Island Trading	Garden House Crowther Way	Hedge End	Lancashire	LA9-PX8	UK	2	10-14-2003	11-11-2003	11-12-2003	61.53
+10750	WARTH	9	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	1	10-15-2003	11-12-2003	10-18-2003	79.30
+10751	RICSU	3	Richter Supermarkt	Starenweg 5	Geneve		1204	Switzerland	3	10-18-2003	11-15-2003	10-27-2003	130.79
+10752	NORTS	2	North/South	South House 300 Queensbridge	London		SW7-1RZ	UK	3	10-18-2003	11-15-2003	10-22-2003	1.39
+10753	FRANS	3	Franchi S.p.A.	Via Monte Bianco 34	Torino		10100	Italy	1	10-19-2003	11-16-2003	10-21-2003	7.70
+10754	MAGAA	6	Magazzini Alimentari Riuniti	Via Ludovico il Moro 22	Bergamo		24100	Italy	3	10-19-2003	11-16-2003	10-21-2003	2.38
+10755	BONAP	4	Bon app'	12, rue des Bouchers	Marseille		13008	France	2	10-20-2003	11-17-2003	10-22-2003	16.71
+10756	SPLIR	8	Split Rail Beer & Ale	P.O. Box 555	Lander	WY	82520	USA	2	10-21-2003	11-18-2003	10-26-2003	73.21
+10757	SAVEA	6	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	1	10-21-2003	11-18-2003	11-8-2003	8.19
+10758	RICSU	3	Richter Supermarkt	Starenweg 5	Geneve		1204	Switzerland	3	10-22-2003	11-19-2003	10-28-2003	138.17
+10759	ANATR	3	Ana Trujillo Emparedados y helados	Avda. de la Constitucion 2222	Mexico D.F.		5021	Mexico	3	10-22-2003	11-19-2003	11-5-2003	11.99
+10760	MAISD	4	Maison Dewey	Rue Joseph-Bens 532	Bruxelles		B-1180	Belgium	1	10-25-2003	11-22-2003	11-3-2003	155.64
+10761	RATTC	5	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	2	10-26-2003	11-23-2003	11-1-2003	18.66
+10762	FOLKO	3	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	1	10-26-2003	11-23-2003	11-2-2003	328.74
+10763	FOLIG	3	Folies gourmandes	184, chaussee de Tournai	Lille		59000	France	3	10-27-2003	11-24-2003	11-1-2003	37.35
+10764	ERNSH	6	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	3	10-27-2003	11-24-2003	11-1-2003	145.45
+10765	QUICK	3	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	3	10-28-2003	11-25-2003	11-2-2003	42.74
+10766	OTTIK	4	Ottilies Kaseladen	Mehrheimerstr. 369	Koln		50739	Germany	1	10-29-2003	11-26-2003	11-2-2003	157.55
+10767	SUPRD	4	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	3	10-29-2003	11-26-2003	11-8-2003	1.59
+10768	AROUT	3	Around the Horn	Brook Farm Stratford St. Mary	Colchester	Essex	CO7-6JX	UK	2	11-1-2003	11-29-2003	11-8-2003	146.32
+10769	VAFFE	3	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	1	11-1-2003	11-29-2003	11-5-2003	65.06
+10770	HANAR	8	Hanari Carnes	Rua do Paco, 67	Rio de Janeiro	RJ	05454-876	Brazil	3	11-2-2003	11-30-2003	11-10-2003	5.32
+10771	ERNSH	9	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	2	11-3-2003	12-1-2003	11-26-2003	11.19
+10772	LEHMS	3	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	2	11-3-2003	12-1-2003	11-12-2003	91.28
+10773	ERNSH	1	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	3	11-4-2003	12-2-2003	11-9-2003	96.43
+10774	FOLKO	4	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	1	11-4-2003	11-18-2003	11-5-2003	48.20
+10775	THECR	7	The Cracker Box	55-Grizzly Peak Rd.	Butte	MT	59801	USA	1	11-5-2003	12-3-2003	11-19-2003	20.25
+10776	ERNSH	1	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	3	11-8-2003	12-6-2003	11-11-2003	351.53
+10777	GOURL	7	Gourmet Lanchonetes	Av. Brasil, 442	Campinas	SP	04876-786	Brazil	2	11-8-2003	11-22-2003	12-15-2003	3.01
+10778	BERGS	3	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	1	11-9-2003	12-7-2003	11-17-2003	6.79
+10779	MORGK	3	Morgenstern Gesundkost	Heerstr. 22	Leipzig		4179	Germany	2	11-9-2003	12-7-2003	12-8-2003	58.13
+10780	LILAS	2	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	1	11-9-2003	11-23-2003	11-18-2003	42.13
+10781	WARTH	2	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	3	11-10-2003	12-8-2003	11-12-2003	73.16
+10782	CACTU	9	Cactus Comidas para llevar	Cerrito 333	Buenos Aires		1010	Argentina	3	11-10-2003	12-8-2003	11-15-2003	1.10
+10783	HANAR	4	Hanari Carnes	Rua do Paco, 67	Rio de Janeiro	RJ	05454-876	Brazil	2	11-11-2003	12-9-2003	11-12-2003	124.98
+10784	MAGAA	4	Magazzini Alimentari Riuniti	Via Ludovico il Moro 22	Bergamo		24100	Italy	3	11-11-2003	12-9-2003	11-15-2003	70.09
+10785	GROSR	1	GROSELLA-Restaurante	5ª Ave. Los Palos Grandes	Caracas	DF	1081	Venezuela	3	11-11-2003	12-9-2003	11-17-2003	1.51
+10786	QUEEN	8	Queen Cozinha	Alameda dos Canarios, 891	São Paulo	SP	05487-020	Brazil	1	11-12-2003	12-10-2003	11-16-2003	110.87
+10787	LAMAI	2	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	1	11-12-2003	11-26-2003	11-19-2003	249.93
+10788	QUICK	1	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	2	11-15-2003	12-13-2003	12-13-2003	42.70
+10789	FOLIG	1	Folies gourmandes	184, chaussee de Tournai	Lille		59000	France	2	11-15-2003	12-13-2003	11-24-2003	100.60
+10790	GOURL	6	Gourmet Lanchonetes	Av. Brasil, 442	Campinas	SP	04876-786	Brazil	1	11-15-2003	12-13-2003	11-19-2003	28.23
+10791	FRANK	6	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	2	11-16-2003	12-14-2003	11-25-2003	16.85
+10792	WOLZA	1	Wolski Zajazd	ul. Filtrowa 68	Warszawa		01-012	Poland	3	11-16-2003	12-14-2003	11-24-2003	23.79
+10793	AROUT	3	Around the Horn	Brook Farm Stratford St. Mary	Colchester	Essex	CO7-6JX	UK	3	11-17-2003	12-15-2003	12-2-2003	4.52
+10794	QUEDE	6	Que Delicia	Rua da Panificadora, 12	Rio de Janeiro	RJ	02389-673	Brazil	1	11-17-2003	12-15-2003	11-26-2003	21.49
+10795	ERNSH	8	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	2	11-17-2003	12-15-2003	12-14-2003	126.66
+10796	HILAA	3	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	1	11-18-2003	12-16-2003	12-8-2003	26.52
+10797	DRACD	7	Drachenblut Delikatessen	Walserweg 21	Aachen		52066	Germany	2	11-18-2003	12-16-2003	11-29-2003	33.35
+10798	ISLAT	2	Island Trading	Garden House Crowther Way	Hedge End	Lancashire	LA9-PX8	UK	1	11-19-2003	12-17-2003	11-29-2003	2.33
+10799	KOENE	9	Koniglich Essen	Maubelstr. 90	Brandenburg		14776	Germany	3	11-19-2003	12-31-2003	11-29-2003	30.76
+10800	SEVES	1	Seven Seas Imports	90 Wadhurst Rd.	London		OX15-4NB	UK	3	11-19-2003	12-17-2003	11-29-2003	137.44
+10801	BOLID	4	Bolido Comidas preparadas	C/ Araquil, 67	Madrid		28023	Spain	2	11-22-2003	12-20-2003	11-24-2003	97.09
+10802	SIMOB	4	Simons bistro	Vinbæltet 34	Kobenhavn		1734	Denmark	2	11-22-2003	12-20-2003	11-26-2003	257.26
+10803	WELLI	4	Wellington Importadora	Rua do Mercado, 12	Resende	SP	08737-363	Brazil	1	11-23-2003	12-21-2003	11-30-2003	55.23
+10804	SEVES	6	Seven Seas Imports	90 Wadhurst Rd.	London		OX15-4NB	UK	2	11-23-2003	12-21-2003	12-1-2003	27.33
+10805	THEBI	2	The Big Cheese	89-Jefferson Way Suite 2	Portland	OR	97201	USA	3	11-23-2003	12-21-2003	12-3-2003	237.34
+10806	VICTE	3	Victuailles en stock	2, rue du Commerce	Lyon		69004	France	2	11-24-2003	12-22-2003	11-29-2003	22.11
+10807	FRANS	4	Franchi S.p.A.	Via Monte Bianco 34	Torino		10100	Italy	1	11-24-2003	12-22-2003	12-24-2003	1.36
+10808	OLDWO	2	Old World Delicatessen	2743-Bering St.	Anchorage	AK	99508	USA	3	11-25-2003	12-23-2003	12-3-2003	45.53
+10809	WELLI	7	Wellington Importadora	Rua do Mercado, 12	Resende	SP	08737-363	Brazil	1	11-25-2003	12-23-2003	12-1-2003	4.87
+10810	LAUGB	2	Laughing Bacchus Wine Cellars	2319-Elm St.	Vancouver	BC	V3F 2K1	Canada	3	11-25-2003	12-23-2003	12-1-2003	4.33
+10811	LINOD	8	LINO-Delicateses	Ave. 5-de Mayo Porlamar	I. de Margarita	Nueva Esparta	4980	Venezuela	1	11-26-2003	12-24-2003	12-2-2003	31.22
+10812	REGGC	5	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	1	11-26-2003	12-24-2003	12-6-2003	59.78
+10813	RICAR	1	Ricardo Adocicados	Av. Copacabana, 267	Rio de Janeiro	RJ	02389-890	Brazil	1	11-29-2003	12-27-2003	12-3-2003	47.38
+10814	VICTE	3	Victuailles en stock	2, rue du Commerce	Lyon		69004	France	3	11-29-2003	12-27-2003	12-8-2003	130.94
+10815	SAVEA	2	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	11-29-2003	12-27-2003	12-8-2003	14.62
+10816	GREAL	4	Great Lakes Food Market	2732-Baker Blvd.	Eugene	OR	97403	USA	2	11-30-2003	12-28-2003	12-29-2003	719.78
+10817	KOENE	3	Koniglich Essen	Maubelstr. 90	Brandenburg		14776	Germany	2	11-30-2003	12-14-2003	12-7-2003	306.07
+10818	MAGAA	7	Magazzini Alimentari Riuniti	Via Ludovico il Moro 22	Bergamo		24100	Italy	3	12-1-2003	12-29-2003	12-6-2003	65.48
+10819	CACTU	2	Cactus Comidas para llevar	Cerrito 333	Buenos Aires		1010	Argentina	3	12-1-2003	12-29-2003	12-10-2003	19.76
+10820	RATTC	3	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	2	12-1-2003	12-29-2003	12-7-2003	37.52
+10821	SPLIR	1	Split Rail Beer & Ale	P.O. Box 555	Lander	WY	82520	USA	1	12-2-2003	12-30-2003	12-9-2003	36.68
+10822	TRAIH	6	Trail's Head Gourmet Provisioners	722-DaVinci Blvd.	Kirkland	WA	98034	USA	3	12-2-2003	12-30-2003	12-10-2003	7.00
+10823	LILAS	5	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	2	12-3-2003	12-31-2003	12-7-2003	163.97
+10824	FOLKO	8	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	1	12-3-2003	12-31-2003	12-24-2003	1.23
+10825	DRACD	1	Drachenblut Delikatessen	Walserweg 21	Aachen		52066	Germany	1	12-3-2003	12-31-2003	12-8-2003	79.25
+10826	BLONP	6	Blondel pere et fils	24, place Kleber	Strasbourg		67000	France	1	12-6-2003	1-3-2004	12-31-2003	7.09
+10827	BONAP	1	Bon app'	12, rue des Bouchers	Marseille		13008	France	2	12-6-2003	12-20-2003	12-31-2003	63.54
+10828	RANCH	9	Rancho grande	Av. del Libertador 900	Buenos Aires		1010	Argentina	1	12-7-2003	12-21-2003	12-29-2003	90.85
+10829	ISLAT	9	Island Trading	Garden House Crowther Way	Hedge End	Lancashire	LA9-PX8	UK	1	12-7-2003	1-4-2004	12-17-2003	154.72
+10830	TRADH	4	Tradicão Hipermercados	Av. Inês de Castro, 414	São Paulo	SP	05634-030	Brazil	2	12-7-2003	1-18-2004	12-15-2003	81.83
+10831	SANTG	3	Sante Gourmet	Erling Skakkes gate 78	Stavern		4110	Norway	2	12-8-2003	1-5-2004	12-17-2003	72.19
+10832	LAMAI	2	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	2	12-8-2003	1-5-2004	12-13-2003	43.26
+10833	OTTIK	6	Ottilies Kaseladen	Mehrheimerstr. 369	Koln		50739	Germany	2	12-9-2003	1-6-2004	12-17-2003	71.49
+10834	TRADH	1	Tradicão Hipermercados	Av. Inês de Castro, 414	São Paulo	SP	05634-030	Brazil	3	12-9-2003	1-6-2004	12-13-2003	29.78
+10835	ALFKI	1	Alfred's Futterkiste	Obere Str. 57	Berlin		12209	Germany	3	12-9-2003	1-6-2004	12-15-2003	69.53
+10836	ERNSH	7	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	1	12-10-2003	1-7-2004	12-15-2003	411.88
+10837	BERGS	9	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	3	12-10-2003	1-7-2004	12-17-2003	13.32
+10838	LINOD	3	LINO-Delicateses	Ave. 5-de Mayo Porlamar	I. de Margarita	Nueva Esparta	4980	Venezuela	3	12-13-2003	1-10-2004	12-17-2003	59.28
+10839	TRADH	3	Tradicão Hipermercados	Av. Inês de Castro, 414	São Paulo	SP	05634-030	Brazil	3	12-13-2003	1-10-2004	12-16-2003	35.43
+10840	LINOD	4	LINO-Delicateses	Ave. 5-de Mayo Porlamar	I. de Margarita	Nueva Esparta	4980	Venezuela	2	12-13-2003	1-24-2004	1-10-2004	2.71
+10841	SUPRD	5	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	2	12-14-2003	1-11-2004	12-23-2003	424.30
+10842	TORTU	1	Tortuga Restaurante	Avda. Azteca 123	Mexico D.F.		5033	Mexico	3	12-14-2003	1-11-2004	12-23-2003	54.42
+10843	VICTE	4	Victuailles en stock	2, rue du Commerce	Lyon		69004	France	2	12-15-2003	1-12-2004	12-20-2003	9.26
+10844	PICCO	8	Piccolo und mehr	Geislweg 14	Salzburg		5020	Austria	2	12-15-2003	1-12-2004	12-20-2003	25.22
+10845	QUICK	8	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	1	12-15-2003	12-29-2003	12-24-2003	212.98
+10846	SUPRD	2	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	3	12-16-2003	1-27-2004	12-17-2003	56.46
+10847	SAVEA	4	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	12-16-2003	12-30-2003	1-4-2004	487.57
+10848	CONSH	7	Consolidated Holdings	Berkeley Gardens 12- Brewery	London		WX1-6LT	UK	2	12-17-2003	1-14-2004	12-23-2003	38.24
+10849	KOENE	9	Koniglich Essen	Maubelstr. 90	Brandenburg		14776	Germany	2	12-17-2003	1-14-2004	12-24-2003	0.56
+10850	VICTE	1	Victuailles en stock	2, rue du Commerce	Lyon		69004	France	1	12-17-2003	1-28-2004	12-24-2003	49.19
+10851	RICAR	5	Ricardo Adocicados	Av. Copacabana, 267	Rio de Janeiro	RJ	02389-890	Brazil	1	12-20-2003	1-17-2004	12-27-2003	160.55
+10852	RATTC	8	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	1	12-20-2003	1-3-2004	12-24-2003	174.05
+10853	BLAUS	9	Blauer See Delikatessen	Forsterstr. 57	Mannheim		68306	Germany	2	12-21-2003	1-18-2004	12-28-2003	53.83
+10854	ERNSH	3	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	2	12-21-2003	1-18-2004	12-30-2003	100.22
+10855	OLDWO	3	Old World Delicatessen	2743-Bering St.	Anchorage	AK	99508	USA	1	12-21-2003	1-18-2004	12-29-2003	170.97
+10856	ANTON	3	Antonio Moreno Taqueria	Mataderos  2312	Mexico D.F.		5023	Mexico	2	12-22-2003	1-19-2004	1-4-2004	58.43
+10857	BERGS	8	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	2	12-22-2003	1-19-2004	12-31-2003	188.85
+10858	LACOR	2	La corne d'abondance	67, avenue de l'Europe	Versailles		78000	France	1	12-23-2003	1-20-2004	12-28-2003	52.51
+10859	FRANK	1	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	2	12-23-2003	1-20-2004	12-27-2003	76.10
+10860	FRANR	3	France restauration	54, rue Royale	Nantes		44000	France	3	12-23-2003	1-20-2004	12-29-2003	19.26
+10861	WHITC	4	White Clover Markets	1029-- 12th Ave. S.	Seattle	WA	98124	USA	2	12-24-2003	1-21-2004	1-11-2004	14.93
+10862	LEHMS	8	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	2	12-24-2003	2-4-2004	12-27-2003	53.23
+10863	HILAA	4	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	2	12-27-2003	1-24-2004	1-11-2004	30.26
+10864	AROUT	4	Around the Horn	Brook Farm Stratford St. Mary	Colchester	Essex	CO7-6JX	UK	2	12-27-2003	1-24-2004	1-3-2004	3.04
+10865	QUICK	2	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	1	12-27-2003	1-10-2004	1-6-2004	348.14
+10866	BERGS	5	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	1	12-28-2003	1-25-2004	1-6-2004	109.11
+10867	LONEP	6	Lonesome Pine Restaurant	89-Chiaroscuro Rd.	Portland	OR	97219	USA	1	12-28-2003	2-8-2004	1-5-2004	1.93
+10868	QUEEN	7	Queen Cozinha	Alameda dos Canarios, 891	São Paulo	SP	05487-020	Brazil	2	12-29-2003	1-26-2004	1-17-2004	191.27
+10869	SEVES	5	Seven Seas Imports	90 Wadhurst Rd.	London		OX15-4NB	UK	1	12-29-2003	1-26-2004	1-3-2004	143.28
+10870	WOLZA	5	Wolski Zajazd	ul. Filtrowa 68	Warszawa		01-012	Poland	3	12-29-2003	1-26-2004	1-7-2004	12.04
+10871	BONAP	9	Bon app'	12, rue des Bouchers	Marseille		13008	France	2	12-30-2003	1-27-2004	1-4-2004	112.27
+10872	GODOS	5	Godos Cocina Tipica	C/ Romero, 33	Sevilla		41101	Spain	2	12-30-2003	1-27-2004	1-3-2004	175.32
+10873	WILMK	4	Wilman Kala	Keskuskatu 45	Helsinki		21240	Finland	1	12-31-2003	1-28-2004	1-3-2004	0.82
+10874	GODOS	5	Godos Cocina Tipica	C/ Romero, 33	Sevilla		41101	Spain	2	12-31-2003	1-28-2004	1-5-2004	19.58
+10875	BERGS	4	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	2	12-31-2003	1-28-2004	1-25-2004	32.37
+10876	BONAP	7	Bon app'	12, rue des Bouchers	Marseille		13008	France	3	1-3-2004	1-31-2004	1-6-2004	60.42
+10877	RICAR	1	Ricardo Adocicados	Av. Copacabana, 267	Rio de Janeiro	RJ	02389-890	Brazil	1	1-3-2004	1-31-2004	1-13-2004	38.06
+10878	QUICK	4	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	1	1-4-2004	2-1-2004	1-6-2004	46.69
+10879	WILMK	3	Wilman Kala	Keskuskatu 45	Helsinki		21240	Finland	3	1-4-2004	2-1-2004	1-6-2004	8.50
+10880	FOLKO	7	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	1	1-4-2004	2-15-2004	1-12-2004	88.01
+10881	CACTU	4	Cactus Comidas para llevar	Cerrito 333	Buenos Aires		1010	Argentina	1	1-5-2004	2-2-2004	1-12-2004	2.84
+10882	SAVEA	4	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	1-5-2004	2-2-2004	1-14-2004	23.10
+10883	LONEP	8	Lonesome Pine Restaurant	89-Chiaroscuro Rd.	Portland	OR	97219	USA	3	1-6-2004	2-3-2004	1-14-2004	0.53
+10884	LETSS	4	Let's Stop N Shop	87-Polk St. Suite 5	San Francisco	CA	94117	USA	2	1-6-2004	2-3-2004	1-7-2004	90.97
+10885	SUPRD	6	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	3	1-6-2004	2-3-2004	1-12-2004	5.64
+10886	HANAR	1	Hanari Carnes	Rua do Paco, 67	Rio de Janeiro	RJ	05454-876	Brazil	1	1-7-2004	2-4-2004	1-24-2004	4.99
+10887	GALED	8	Galeria del gastronomo	Rambla de Cataluna, 23	Barcelona		8022	Spain	3	1-7-2004	2-4-2004	1-10-2004	1.25
+10888	GODOS	1	Godos Cocina Tipica	C/ Romero, 33	Sevilla		41101	Spain	2	1-10-2004	2-7-2004	1-17-2004	51.87
+10889	RATTC	9	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	3	1-10-2004	2-7-2004	1-17-2004	280.61
+10890	DUMON	7	Du monde entier	67, rue des Cinquante Otages	Nantes		44000	France	1	1-10-2004	2-7-2004	1-12-2004	32.76
+10891	LEHMS	7	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	2	1-11-2004	2-8-2004	1-13-2004	20.37
+10892	MAISD	4	Maison Dewey	Rue Joseph-Bens 532	Bruxelles		B-1180	Belgium	2	1-11-2004	2-8-2004	1-13-2004	120.27
+10893	KOENE	9	Koniglich Essen	Maubelstr. 90	Brandenburg		14776	Germany	2	1-12-2004	2-9-2004	1-14-2004	77.78
+10894	SAVEA	1	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	1	1-12-2004	2-9-2004	1-14-2004	116.13
+10895	ERNSH	3	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	1	1-12-2004	2-9-2004	1-17-2004	162.75
+10896	MAISD	7	Maison Dewey	Rue Joseph-Bens 532	Bruxelles		B-1180	Belgium	3	1-13-2004	2-10-2004	1-21-2004	32.45
+10897	HUNGO	3	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	2	1-13-2004	2-10-2004	1-19-2004	603.54
+10898	OCEAN	4	Oceano Atlantico Ltda.	Ing. Gustavo Moncada 8585-Piso 20-A	Buenos Aires		1010	Argentina	2	1-14-2004	2-11-2004	1-28-2004	1.27
+10899	LILAS	5	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	3	1-14-2004	2-11-2004	1-20-2004	1.21
+10900	WELLI	1	Wellington Importadora	Rua do Mercado, 12	Resende	SP	08737-363	Brazil	2	1-14-2004	2-11-2004	1-26-2004	1.66
+10901	HILAA	4	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	1	1-17-2004	2-14-2004	1-20-2004	62.09
+10902	FOLKO	1	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	1	1-17-2004	2-14-2004	1-25-2004	44.15
+10903	HANAR	3	Hanari Carnes	Rua do Paco, 67	Rio de Janeiro	RJ	05454-876	Brazil	3	1-18-2004	2-15-2004	1-26-2004	36.71
+10904	WHITC	3	White Clover Markets	1029-- 12th Ave. S.	Seattle	WA	98124	USA	3	1-18-2004	2-15-2004	1-21-2004	162.95
+10905	WELLI	9	Wellington Importadora	Rua do Mercado, 12	Resende	SP	08737-363	Brazil	2	1-18-2004	2-15-2004	1-28-2004	13.72
+10906	WOLZA	4	Wolski Zajazd	ul. Filtrowa 68	Warszawa		01-012	Poland	3	1-19-2004	2-2-2004	1-25-2004	26.29
+10907	SPECD	6	Specialites du monde	25, rue Lauriston	Paris		75016	France	3	1-19-2004	2-16-2004	1-21-2004	9.19
+10908	REGGC	4	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	2	1-20-2004	2-17-2004	1-28-2004	32.96
+10909	SANTG	1	Sante Gourmet	Erling Skakkes gate 78	Stavern		4110	Norway	2	1-20-2004	2-17-2004	2-1-2004	53.05
+10910	WILMK	1	Wilman Kala	Keskuskatu 45	Helsinki		21240	Finland	3	1-20-2004	2-17-2004	1-26-2004	38.11
+10911	GODOS	3	Godos Cocina Tipica	C/ Romero, 33	Sevilla		41101	Spain	1	1-20-2004	2-17-2004	1-27-2004	38.19
+10912	HUNGO	2	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	2	1-20-2004	2-17-2004	2-9-2004	580.91
+10913	QUEEN	4	Queen Cozinha	Alameda dos Canarios, 891	São Paulo	SP	05487-020	Brazil	1	1-20-2004	2-17-2004	1-26-2004	33.05
+10914	QUEEN	6	Queen Cozinha	Alameda dos Canarios, 891	São Paulo	SP	05487-020	Brazil	1	1-21-2004	2-18-2004	1-24-2004	21.19
+10915	TORTU	2	Tortuga Restaurante	Avda. Azteca 123	Mexico D.F.		5033	Mexico	2	1-21-2004	2-18-2004	1-24-2004	3.51
+10916	RANCH	1	Rancho grande	Av. del Libertador 900	Buenos Aires		1010	Argentina	2	1-21-2004	2-18-2004	1-31-2004	63.77
+10917	ROMEY	4	Romero y tomillo	Gran Via, 1	Madrid		28001	Spain	2	1-24-2004	2-21-2004	2-2-2004	8.29
+10918	BOTTM	3	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	3	1-24-2004	2-21-2004	2-2-2004	48.83
+10919	LINOD	2	LINO-Delicateses	Ave. 5-de Mayo Porlamar	I. de Margarita	Nueva Esparta	4980	Venezuela	2	1-24-2004	2-21-2004	1-26-2004	19.80
+10920	AROUT	4	Around the Horn	Brook Farm Stratford St. Mary	Colchester	Essex	CO7-6JX	UK	2	1-25-2004	2-22-2004	1-31-2004	29.61
+10921	VAFFE	1	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	1	1-25-2004	3-8-2004	1-31-2004	176.48
+10922	HANAR	5	Hanari Carnes	Rua do Paco, 67	Rio de Janeiro	RJ	05454-876	Brazil	3	1-25-2004	2-22-2004	1-27-2004	62.74
+10923	LAMAI	7	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	3	1-25-2004	3-8-2004	2-4-2004	68.26
+10924	BERGS	3	Berglunds snabbkop	Berguvsvagen  8	Lulea		S-958-22	Sweden	2	1-26-2004	2-23-2004	3-2-2004	151.52
+10925	HANAR	3	Hanari Carnes	Rua do Paco, 67	Rio de Janeiro	RJ	05454-876	Brazil	1	1-26-2004	2-23-2004	2-4-2004	2.27
+10926	ANATR	4	Ana Trujillo Emparedados y helados	Avda. de la Constitucion 2222	Mexico D.F.		5021	Mexico	3	1-26-2004	2-23-2004	2-2-2004	39.92
+10927	LACOR	4	La corne d'abondance	67, avenue de l'Europe	Versailles		78000	France	1	1-27-2004	2-24-2004	3-2-2004	19.79
+10928	GALED	1	Galeria del gastronomo	Rambla de Cataluna, 23	Barcelona		8022	Spain	1	1-27-2004	2-24-2004	2-9-2004	1.36
+10929	FRANK	6	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	1	1-27-2004	2-24-2004	2-3-2004	33.93
+10930	SUPRD	4	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	3	1-28-2004	3-11-2004	2-9-2004	15.55
+10931	RICSU	4	Richter Supermarkt	Starenweg 5	Geneve		1204	Switzerland	2	1-28-2004	2-11-2004	2-10-2004	13.60
+10932	BONAP	8	Bon app'	12, rue des Bouchers	Marseille		13008	France	1	1-28-2004	2-25-2004	2-15-2004	134.64
+10933	ISLAT	6	Island Trading	Garden House Crowther Way	Hedge End	Lancashire	LA9-PX8	UK	3	1-28-2004	2-25-2004	2-7-2004	54.15
+10934	LEHMS	3	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	3	1-31-2004	2-28-2004	2-3-2004	32.01
+10935	WELLI	4	Wellington Importadora	Rua do Mercado, 12	Resende	SP	08737-363	Brazil	3	1-31-2004	2-28-2004	2-9-2004	47.59
+10936	GREAL	3	Great Lakes Food Market	2732-Baker Blvd.	Eugene	OR	97403	USA	2	1-31-2004	2-28-2004	2-9-2004	33.68
+10937	CACTU	7	Cactus Comidas para llevar	Cerrito 333	Buenos Aires		1010	Argentina	3	2-1-2004	2-15-2004	2-4-2004	31.51
+10938	QUICK	3	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	2	2-1-2004	3-1-2004	2-7-2004	31.89
+10939	MAGAA	2	Magazzini Alimentari Riuniti	Via Ludovico il Moro 22	Bergamo		24100	Italy	2	2-1-2004	3-1-2004	2-4-2004	76.33
+10940	BONAP	8	Bon app'	12, rue des Bouchers	Marseille		13008	France	3	2-2-2004	3-2-2004	2-14-2004	19.77
+10941	SAVEA	7	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	2	2-2-2004	3-2-2004	2-11-2004	400.81
+10942	REGGC	9	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	3	2-2-2004	3-2-2004	2-9-2004	17.95
+10943	BSBEV	4	B's Beverages	Fauntleroy Circus	London		EC2-5NT	UK	2	2-2-2004	3-2-2004	2-10-2004	2.17
+10944	BOTTM	6	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	3	2-3-2004	2-17-2004	2-4-2004	52.92
+10945	MORGK	4	Morgenstern Gesundkost	Heerstr. 22	Leipzig		4179	Germany	1	2-3-2004	3-3-2004	2-9-2004	10.22
+10946	VAFFE	1	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	2	2-3-2004	3-3-2004	2-10-2004	27.20
+10947	BSBEV	3	B's Beverages	Fauntleroy Circus	London		EC2-5NT	UK	2	2-4-2004	3-4-2004	2-7-2004	3.26
+10948	GODOS	3	Godos Cocina Tipica	C/ Romero, 33	Sevilla		41101	Spain	3	2-4-2004	3-4-2004	2-10-2004	23.39
+10949	BOTTM	2	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	3	2-4-2004	3-4-2004	2-8-2004	74.44
+10950	MAGAA	1	Magazzini Alimentari Riuniti	Via Ludovico il Moro 22	Bergamo		24100	Italy	2	2-7-2004	3-7-2004	2-14-2004	2.50
+10951	RICSU	9	Richter Supermarkt	Starenweg 5	Geneve		1204	Switzerland	2	2-7-2004	3-21-2004	3-1-2004	30.85
+10952	ALFKI	1	Alfred's Futterkiste	Obere Str. 57	Berlin		12209	Germany	1	2-7-2004	3-21-2004	2-15-2004	40.42
+10953	AROUT	9	Around the Horn	Brook Farm Stratford St. Mary	Colchester	Essex	CO7-6JX	UK	2	2-7-2004	2-21-2004	2-16-2004	23.72
+10954	LINOD	5	LINO-Delicateses	Ave. 5-de Mayo Porlamar	I. de Margarita	Nueva Esparta	4980	Venezuela	1	2-8-2004	3-22-2004	2-11-2004	27.91
+10955	FOLKO	8	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	2	2-8-2004	3-8-2004	2-11-2004	3.26
+10956	BLAUS	6	Blauer See Delikatessen	Forsterstr. 57	Mannheim		68306	Germany	2	2-8-2004	3-22-2004	2-11-2004	44.65
+10957	HILAA	8	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	3	2-9-2004	3-9-2004	2-18-2004	105.36
+10958	OCEAN	7	Oceano Atlantico Ltda.	Ing. Gustavo Moncada 8585-Piso 20-A	Buenos Aires		1010	Argentina	2	2-9-2004	3-9-2004	2-18-2004	49.56
+10959	GOURL	6	Gourmet Lanchonetes	Av. Brasil, 442	Campinas	SP	04876-786	Brazil	2	2-9-2004	3-23-2004	2-14-2004	4.98
+10960	HILAA	3	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	1	2-10-2004	2-24-2004	3-2-2004	2.08
+10961	QUEEN	8	Queen Cozinha	Alameda dos Canarios, 891	São Paulo	SP	05487-020	Brazil	1	2-10-2004	3-10-2004	2-21-2004	104.47
+10962	QUICK	8	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	2	2-10-2004	3-10-2004	2-14-2004	275.79
+10963	FURIB	9	Furia Bacalhau e Frutos do Mar	Jardim das rosas n. 32	Lisboa		1675	Portugal	3	2-10-2004	3-10-2004	2-17-2004	2.70
+10964	SPECD	3	Specialites du monde	25, rue Lauriston	Paris		75016	France	2	2-11-2004	3-11-2004	2-15-2004	87.38
+10965	OLDWO	6	Old World Delicatessen	2743-Bering St.	Anchorage	AK	99508	USA	3	2-11-2004	3-11-2004	2-21-2004	144.38
+10966	CHOPS	4	Chop-suey Chinese	Hauptstr. 31	Bern		3012	Switzerland	1	2-11-2004	3-11-2004	3-2-2004	27.19
+10967	TOMSP	2	Toms Spezialitaten	Luisenstr. 48	Munster		44087	Germany	2	2-14-2004	3-14-2004	2-24-2004	62.22
+10968	ERNSH	1	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	3	2-14-2004	3-14-2004	2-23-2004	74.60
+10969	COMMI	1	Comercio Mineiro	Av. dos Lusiadas, 23	São Paulo	SP	05432-043	Brazil	2	2-14-2004	3-14-2004	2-21-2004	0.21
+10970	BOLID	9	Bolido Comidas preparadas	C/ Araquil, 67	Madrid		28023	Spain	1	2-15-2004	3-1-2004	3-18-2004	16.16
+10971	FRANR	2	France restauration	54, rue Royale	Nantes		44000	France	2	2-15-2004	3-15-2004	2-24-2004	121.82
+10972	LACOR	4	La corne d'abondance	67, avenue de l'Europe	Versailles		78000	France	2	2-15-2004	3-15-2004	2-17-2004	0.02
+10973	LACOR	6	La corne d'abondance	67, avenue de l'Europe	Versailles		78000	France	2	2-15-2004	3-15-2004	2-18-2004	15.17
+10974	SPLIR	3	Split Rail Beer & Ale	P.O. Box 555	Lander	WY	82520	USA	3	2-16-2004	3-2-2004	2-25-2004	12.96
+10975	BOTTM	1	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	3	2-16-2004	3-16-2004	2-18-2004	32.27
+10976	HILAA	1	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	1	2-16-2004	3-30-2004	2-25-2004	37.97
+10977	FOLKO	8	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	3	2-17-2004	3-17-2004	3-4-2004	208.50
+10978	MAISD	9	Maison Dewey	Rue Joseph-Bens 532	Bruxelles		B-1180	Belgium	2	2-17-2004	3-17-2004	3-17-2004	32.82
+10979	ERNSH	8	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	2	2-17-2004	3-17-2004	2-22-2004	353.07
+10980	FOLKO	4	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	1	2-18-2004	4-1-2004	3-11-2004	1.26
+10981	HANAR	1	Hanari Carnes	Rua do Paco, 67	Rio de Janeiro	RJ	05454-876	Brazil	2	2-18-2004	3-18-2004	2-24-2004	193.37
+10982	BOTTM	2	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	1	2-18-2004	3-18-2004	3-2-2004	14.01
+10983	SAVEA	2	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	2	2-18-2004	3-18-2004	2-28-2004	657.54
+10984	SAVEA	1	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	3	2-21-2004	3-21-2004	2-25-2004	211.22
+10985	HUNGO	2	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	1	2-21-2004	3-21-2004	2-24-2004	91.51
+10986	OCEAN	8	Oceano Atlantico Ltda.	Ing. Gustavo Moncada 8585-Piso 20-A	Buenos Aires		1010	Argentina	2	2-21-2004	3-21-2004	3-15-2004	217.86
+10987	EASTC	8	Eastern Connection	35-King George	London		WX3-6FW	UK	1	2-22-2004	3-22-2004	2-28-2004	185.48
+10988	RATTC	3	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	2	2-22-2004	3-22-2004	3-4-2004	61.14
+10989	QUEDE	2	Que Delicia	Rua da Panificadora, 12	Rio de Janeiro	RJ	02389-673	Brazil	1	2-22-2004	3-22-2004	2-24-2004	34.76
+10990	ERNSH	2	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	3	2-23-2004	4-6-2004	3-1-2004	117.61
+10991	QUICK	1	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	1	2-23-2004	3-23-2004	3-1-2004	38.51
+10992	THEBI	1	The Big Cheese	89-Jefferson Way Suite 2	Portland	OR	97201	USA	3	2-23-2004	3-23-2004	2-25-2004	4.27
+10993	FOLKO	7	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	3	2-23-2004	3-23-2004	3-4-2004	8.81
+10994	VAFFE	2	Vaffeljernet	Smagsloget 45	Arhus		8200	Denmark	3	2-24-2004	3-10-2004	3-3-2004	65.53
+10995	PERIC	1	Pericles Comidas clasicas	Calle Dr. Jorge Cash 321	Mexico D.F.		5033	Mexico	3	2-24-2004	3-24-2004	2-28-2004	46.00
+10996	QUICK	4	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	2	2-24-2004	3-24-2004	3-4-2004	1.12
+10997	LILAS	8	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	2	2-25-2004	4-8-2004	3-7-2004	73.91
+10998	WOLZA	8	Wolski Zajazd	ul. Filtrowa 68	Warszawa		01-012	Poland	2	2-25-2004	3-11-2004	3-11-2004	20.31
+10999	OTTIK	6	Ottilies Kaseladen	Mehrheimerstr. 369	Koln		50739	Germany	2	2-25-2004	3-25-2004	3-4-2004	96.35
+11000	RATTC	2	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	3	2-28-2004	3-28-2004	3-8-2004	55.12
+11001	FOLKO	2	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	2	2-28-2004	3-28-2004	3-8-2004	197.30
+11002	SAVEA	4	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	1	2-28-2004	3-28-2004	3-10-2004	141.16
+11003	THECR	3	The Cracker Box	55-Grizzly Peak Rd.	Butte	MT	59801	USA	3	2-28-2004	3-28-2004	3-2-2004	14.91
+11004	MAISD	3	Maison Dewey	Rue Joseph-Bens 532	Bruxelles		B-1180	Belgium	1	3-1-2004	3-29-2004	3-14-2004	44.84
+11005	WILMK	2	Wilman Kala	Keskuskatu 45	Helsinki		21240	Finland	1	3-1-2004	3-29-2004	3-4-2004	0.75
+11006	GREAL	3	Great Lakes Food Market	2732-Baker Blvd.	Eugene	OR	97403	USA	2	3-1-2004	3-29-2004	3-9-2004	25.19
+11007	PRINI	8	Princesa Isabel Vinhos	Estrada da saúde n. 58	Lisboa		1756	Portugal	2	3-2-2004	3-30-2004	3-7-2004	202.24
+11008	ERNSH	7	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	3	3-2-2004	3-30-2004		79.46
+11009	GODOS	2	Godos Cocina Tipica	C/ Romero, 33	Sevilla		41101	Spain	1	3-2-2004	3-30-2004	3-4-2004	59.11
+11010	REGGC	2	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	2	3-3-2004	3-31-2004	3-15-2004	28.71
+11011	ALFKI	3	Alfred's Futterkiste	Obere Str. 57	Berlin		12209	Germany	1	3-3-2004	3-31-2004	3-7-2004	1.21
+11012	FRANK	1	Frankenversand	Berliner Platz 43	Munchen		80805	Germany	3	3-3-2004	3-17-2004	3-11-2004	242.95
+11013	ROMEY	2	Romero y tomillo	Gran Via, 1	Madrid		28001	Spain	1	3-3-2004	3-31-2004	3-4-2004	32.99
+11014	LINOD	2	LINO-Delicateses	Ave. 5-de Mayo Porlamar	I. de Margarita	Nueva Esparta	4980	Venezuela	3	3-4-2004	4-1-2004	3-9-2004	23.60
+11015	SANTG	2	Sante Gourmet	Erling Skakkes gate 78	Stavern		4110	Norway	2	3-4-2004	3-18-2004	3-14-2004	4.62
+11016	AROUT	9	Around the Horn	Brook Farm Stratford St. Mary	Colchester	Essex	CO7-6JX	UK	2	3-4-2004	4-1-2004	3-7-2004	33.80
+11017	ERNSH	9	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	2	3-7-2004	4-4-2004	3-14-2004	754.26
+11018	LONEP	4	Lonesome Pine Restaurant	89-Chiaroscuro Rd.	Portland	OR	97219	USA	2	3-7-2004	4-4-2004	3-10-2004	11.65
+11019	RANCH	6	Rancho grande	Av. del Libertador 900	Buenos Aires		1010	Argentina	3	3-7-2004	4-4-2004		3.17
+11020	OTTIK	2	Ottilies Kaseladen	Mehrheimerstr. 369	Koln		50739	Germany	2	3-8-2004	4-5-2004	3-10-2004	43.30
+11021	QUICK	3	QUICK-Stop	Taucherstraße 10	Cunewalde		1307	Germany	1	3-8-2004	4-5-2004	3-15-2004	297.18
+11022	HANAR	9	Hanari Carnes	Rua do Paco, 67	Rio de Janeiro	RJ	05454-876	Brazil	2	3-8-2004	4-5-2004	3-28-2004	6.27
+11023	BSBEV	1	B's Beverages	Fauntleroy Circus	London		EC2-5NT	UK	2	3-8-2004	3-22-2004	3-18-2004	123.83
+11024	EASTC	4	Eastern Connection	35-King George	London		WX3-6FW	UK	1	3-9-2004	4-6-2004	3-14-2004	74.36
+11025	WARTH	6	Wartian Herkku	Torikatu 38	Oulu		90110	Finland	3	3-9-2004	4-6-2004	3-18-2004	29.17
+11026	FRANS	4	Franchi S.p.A.	Via Monte Bianco 34	Torino		10100	Italy	1	3-9-2004	4-6-2004	3-22-2004	47.09
+11027	BOTTM	1	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	1	3-10-2004	4-7-2004	3-14-2004	52.52
+11028	KOENE	2	Koniglich Essen	Maubelstr. 90	Brandenburg		14776	Germany	1	3-10-2004	4-7-2004	3-16-2004	29.59
+11029	CHOPS	4	Chop-suey Chinese	Hauptstr. 31	Bern		3012	Switzerland	1	3-10-2004	4-7-2004	3-21-2004	47.84
+11030	SAVEA	7	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	2	3-11-2004	4-8-2004	3-21-2004	830.75
+11031	SAVEA	6	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	2	3-11-2004	4-8-2004	3-18-2004	227.22
+11032	WHITC	2	White Clover Markets	1029-- 12th Ave. S.	Seattle	WA	98124	USA	3	3-11-2004	4-8-2004	3-17-2004	606.19
+11033	RICSU	7	Richter Supermarkt	Starenweg 5	Geneve		1204	Switzerland	3	3-11-2004	4-8-2004	3-17-2004	84.74
+11034	OLDWO	8	Old World Delicatessen	2743-Bering St.	Anchorage	AK	99508	USA	1	3-14-2004	4-25-2004	3-21-2004	40.32
+11035	SUPRD	2	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	2	3-14-2004	4-11-2004	3-18-2004	0.17
+11036	DRACD	8	Drachenblut Delikatessen	Walserweg 21	Aachen		52066	Germany	3	3-14-2004	4-11-2004	3-16-2004	149.47
+11037	GODOS	7	Godos Cocina Tipica	C/ Romero, 33	Sevilla		41101	Spain	1	3-15-2004	4-12-2004	3-21-2004	3.20
+11038	SUPRD	1	Suprêmes delices	Boulevard Tirou, 255	Charleroi		B-6000	Belgium	2	3-15-2004	4-12-2004	3-24-2004	29.59
+11039	LINOD	1	LINO-Delicateses	Ave. 5-de Mayo Porlamar	I. de Margarita	Nueva Esparta	4980	Venezuela	2	3-15-2004	4-12-2004		65.00
+11040	GREAL	4	Great Lakes Food Market	2732-Baker Blvd.	Eugene	OR	97403	USA	3	3-16-2004	4-13-2004		18.84
+11041	CHOPS	3	Chop-suey Chinese	Hauptstr. 31	Bern		3012	Switzerland	2	3-16-2004	4-13-2004	3-22-2004	48.22
+11042	COMMI	2	Comercio Mineiro	Av. dos Lusiadas, 23	São Paulo	SP	05432-043	Brazil	1	3-16-2004	3-30-2004	3-25-2004	29.99
+11043	SPECD	5	Specialites du monde	25, rue Lauriston	Paris		75016	France	2	3-16-2004	4-13-2004	3-23-2004	8.80
+11044	WOLZA	4	Wolski Zajazd	ul. Filtrowa 68	Warszawa		01-012	Poland	1	3-17-2004	4-14-2004	3-25-2004	8.72
+11045	BOTTM	6	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	2	3-17-2004	4-14-2004		70.58
+11046	WANDK	8	Die Wandernde Kuh	Adenauerallee 900	Stuttgart		70563	Germany	2	3-17-2004	4-14-2004	3-18-2004	71.64
+11047	EASTC	7	Eastern Connection	35-King George	London		WX3-6FW	UK	3	3-18-2004	4-15-2004	3-25-2004	46.62
+11048	BOTTM	7	Bottom-Dollar Markets	23-Tsawassen Blvd.	Tsawassen	BC	T2F 8M4	Canada	3	3-18-2004	4-15-2004	3-24-2004	24.12
+11049	GOURL	3	Gourmet Lanchonetes	Av. Brasil, 442	Campinas	SP	04876-786	Brazil	1	3-18-2004	4-15-2004	3-28-2004	8.34
+11050	FOLKO	8	Folk och fa HB	Akergatan 24	Bracke		S-844-67	Sweden	2	3-21-2004	4-18-2004	3-29-2004	59.41
+11051	LAMAI	7	La maison d'Asie	1-rue Alsace-Lorraine	Toulouse		31000	France	3	3-21-2004	4-18-2004		2.79
+11052	HANAR	3	Hanari Carnes	Rua do Paco, 67	Rio de Janeiro	RJ	05454-876	Brazil	1	3-21-2004	4-18-2004	3-25-2004	67.26
+11053	PICCO	2	Piccolo und mehr	Geislweg 14	Salzburg		5020	Austria	2	3-21-2004	4-18-2004	3-23-2004	53.05
+11054	CACTU	8	Cactus Comidas para llevar	Cerrito 333	Buenos Aires		1010	Argentina	1	3-22-2004	4-19-2004		0.33
+11055	HILAA	7	HILARION-Abastos	Carrera 22-con Ave. Carlos Soublette #8-35	San Cristobal	Tachira	5022	Venezuela	2	3-22-2004	4-19-2004	3-29-2004	120.92
+11056	EASTC	8	Eastern Connection	35-King George	London		WX3-6FW	UK	2	3-22-2004	4-5-2004	3-25-2004	278.96
+11057	NORTS	3	North/South	South House 300 Queensbridge	London		SW7-1RZ	UK	3	3-23-2004	4-20-2004	3-25-2004	4.13
+11058	BLAUS	9	Blauer See Delikatessen	Forsterstr. 57	Mannheim		68306	Germany	3	3-23-2004	4-20-2004		31.14
+11059	RICAR	2	Ricardo Adocicados	Av. Copacabana, 267	Rio de Janeiro	RJ	02389-890	Brazil	2	3-23-2004	5-4-2004		85.80
+11060	FRANS	2	Franchi S.p.A.	Via Monte Bianco 34	Torino		10100	Italy	2	3-24-2004	4-21-2004	3-28-2004	10.98
+11061	GREAL	4	Great Lakes Food Market	2732-Baker Blvd.	Eugene	OR	97403	USA	3	3-24-2004	5-5-2004		14.01
+11062	REGGC	4	Reggiani Caseifici	Strada Provinciale 124	Reggio Emilia		42100	Italy	2	3-24-2004	4-21-2004		29.93
+11063	HUNGO	3	Hungry Owl All-Night Grocers	8-Johnstown Road	Cork	Co. Cork		Ireland	2	3-24-2004	4-21-2004	3-30-2004	81.73
+11064	SAVEA	1	Save-a-lot Markets	187-Suffolk Ln.	Boise	ID	83720	USA	1	3-25-2004	4-22-2004	3-28-2004	30.09
+11065	LILAS	8	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	1	3-25-2004	4-22-2004		12.91
+11066	WHITC	7	White Clover Markets	1029-- 12th Ave. S.	Seattle	WA	98124	USA	2	3-25-2004	4-22-2004	3-28-2004	44.72
+11067	DRACD	1	Drachenblut Delikatessen	Walserweg 21	Aachen		52066	Germany	2	3-28-2004	4-11-2004	3-30-2004	7.98
+11068	QUEEN	8	Queen Cozinha	Alameda dos Canarios, 891	São Paulo	SP	05487-020	Brazil	2	3-28-2004	4-25-2004		81.75
+11069	TORTU	1	Tortuga Restaurante	Avda. Azteca 123	Mexico D.F.		5033	Mexico	2	3-28-2004	4-25-2004	3-30-2004	15.67
+11070	LEHMS	2	Lehmanns Marktstand	Magazinweg 7	Frankfurt a.M.		60528	Germany	1	3-29-2004	4-26-2004		136.00
+11071	LILAS	1	LILA-Supermercado	Carrera 52-con Ave. Bolivar #65-98-Llano Largo	Barquisimeto	Lara	3508	Venezuela	1	3-29-2004	4-26-2004		0.93
+11072	ERNSH	4	Ernst Handel	Kirchgasse 6	Graz		8010	Austria	2	3-29-2004	4-26-2004		258.64
+11073	PERIC	2	Pericles Comidas clasicas	Calle Dr. Jorge Cash 321	Mexico D.F.		5033	Mexico	2	3-29-2004	4-26-2004		24.95
+11074	SIMOB	7	Simons bistro	Vinbæltet 34	Kobenhavn		1734	Denmark	2	3-30-2004	4-27-2004		18.44
+11075	RICSU	8	Richter Supermarkt	Starenweg 5	Geneve		1204	Switzerland	2	3-30-2004	4-27-2004		6.19
+11076	BONAP	4	Bon app'	12, rue des Bouchers	Marseille		13008	France	2	3-30-2004	4-27-2004		38.28
+11077	RATTC	1	Rattlesnake Canyon Grocery	2817-Milton Dr.	Albuquerque	NM	87110	USA	2	3-30-2004	4-27-2004		8.53

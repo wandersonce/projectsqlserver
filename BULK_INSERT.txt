@@ -1,0 +1,37 @@
+BULK INSERT orders
+FROM 'C:\Textfiles\orders.txt'
+
+GO
+
+BULK INSERT order_details
+FROM 'C:\Textfiles\order_details.txt'
+
+GO
+
+BULK INSERT products
+FROM 'C:\Textfiles\products.txt'
+
+GO
+
+BULK INSERT shippers
+FROM 'C:\Textfiles\shippers.txt'
+
+GO
+
+BULK INSERT suppliers
+FROM 'C:\Textfiles\suppliers.txt'
+
+GO
+
+BULK INSERT titles
+FROM 'C:\Textfiles\titles.txt'
+
+GO
+
+BULK INSERT customers
+FROM 'C:\Textfiles\customers.txt'
+
+GO
+
+BULK INSERT employee
+FROM 'C:\Textfiles\employee.txt'

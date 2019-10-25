@@ -1,0 +1,837 @@
+USE MASTER
+
+GO
+
+if exists (select * from sysdatabases where name='Cus_Orders')
+begin
+  raiserror('Dropping existing Cus_Orders ....',0,1)
+  DROP database Cus_Orders
+end
+
+GO
+
+-- 1)
+CREATE DATABASE Cus_Orders
+
+GO
+
+--2)
+
+USE Cus_orders
+
+
+GO
+
+CREATE TABLE customers
+(
+
+customer_id char(5) NOT NULL,
+
+name varchar(50) NOT NULL, 
+
+contact_name varchar(30),
+
+title_id char(3) NOT NULL,
+
+address varchar(50),
+
+city varchar(20),
+
+region varchar(15),
+
+country_code varchar(10),
+
+country varchar(15),
+
+phone varchar(20),
+
+fax varchar(20)
+
+);
+
+GO
+
+CREATE TABLE orders
+(
+
+order_id int NOT NULL,
+
+customer_id char(5) NOT NULL,
+
+employee_id int NOT NULL,
+
+shipping_name varchar(50),
+
+shipping_address varchar(50),
+
+shipping_city varchar(20),
+
+shipping_region varchar(15),
+
+shipping_country_code varchar(10),
+
+shipping_country varchar(15),
+
+shipper_id int NOT NULL,
+
+order_date datetime,
+
+required_date datetime,
+
+shipped_date datetime,
+
+freight_charge money
+
+);
+
+GO
+
+CREATE TABLE order_details
+(
+
+order_id int NOT NULL,
+
+product_id int NOT NULL,
+
+quantity int NOT NULL,
+
+discount float NOT NULL
+
+);
+
+GO
+
+CREATE TABLE products
+(
+
+product_id int NOT NULL,
+
+supplier_id int NOT NULL,
+
+name varchar(40) NOT NULL,
+
+alternate_name varchar(40),
+
+quantity_per_unit varchar(25),
+
+unit_price money,
+
+quantity_in_stock int,
+
+units_on_order int,
+
+reorder_level int,
+
+);
+
+GO
+
+CREATE TABLE shippers
+(
+
+shipper_id int IDENTITY NOT NULL,
+
+name varchar(20) NOT NULL
+
+);
+
+GO
+
+CREATE TABLE suppliers
+(
+
+supplier_id int IDENTITY NOT NULL,
+
+name varchar(40) NOT NULL,
+
+address varchar(30),
+
+city varchar(20),
+
+province char(2)
+
+);
+
+GO
+
+CREATE TABLE titles
+(
+
+title_id char(3) NOT NULL,
+
+description varchar(35) NOT NULL,
+
+);
+
+-- 4)
+
+GO
+
+ALTER TABLE customers
+
+ADD PRIMARY KEY (customer_id);
+
+GO
+
+ALTER TABLE orders
+
+ADD PRIMARY KEY (order_id);
+
+GO
+
+ALTER TABLE order_details
+
+ADD PRIMARY KEY (order_id,product_id);
+
+GO
+
+ALTER TABLE products
+
+ADD PRIMARY KEY (product_id);
+
+GO
+
+ALTER TABLE shippers
+
+ADD PRIMARY KEY (shipper_id);
+
+GO
+
+ALTER TABLE suppliers
+
+ADD PRIMARY KEY (supplier_id);
+
+GO
+
+ALTER TABLE titles
+
+ADD PRIMARY KEY (title_id);
+
+GO
+
+ALTER TABLE customers
+
+ADD CONSTRAINT FK_customer_title FOREIGN KEY(title_id)
+
+REFERENCES titles
+(title_id);
+
+GO
+
+
+ALTER TABLE orders
+
+ADD CONSTRAINT FK_orders_customers FOREIGN KEY(customer_id)
+
+REFERENCES customers
+(customer_id);
+
+GO
+
+
+ALTER TABLE orders
+
+ADD CONSTRAINT FK_orders_shippers FOREIGN KEY(shipper_id)
+
+REFERENCES shippers
+(shipper_id);
+
+GO
+
+ALTER TABLE order_details
+
+ADD CONSTRAINT FK_order_dt_orders FOREIGN KEY(order_id)
+
+REFERENCES orders
+(order_id);
+
+GO
+
+ALTER TABLE order_details
+
+ADD CONSTRAINT FK_oder_dt_products FOREIGN KEY(product_id)
+
+REFERENCES products
+(product_id);
+
+GO
+
+ALTER TABLE products
+
+ADD CONSTRAINT FK_products_suppliers FOREIGN KEY(supplier_id)
+
+REFERENCES suppliers
+(supplier_id);
+
+GO
+
+-- 5)
+ALTER TABLE customers
+ADD CONSTRAINT df_country
+DEFAULT 'Canada' FOR country;
+
+GO
+
+ALTER TABLE orders
+ADD CONSTRAINT df_required_date
+DEFAULT DATEADD(day,10,GETDATE()) FOR required_date;
+
+GO
+
+ALTER TABLE order_details
+ADD CONSTRAINT df_details
+CHECK (quantity >= 1);
+
+GO
+
+ALTER TABLE products
+ADD CONSTRAINT df_products_reorder
+CHECK (reorder_level >= 1);
+
+GO
+
+ALTER TABLE products
+ADD CONSTRAINT df_products_quantity
+CHECK (reorder_level < 150);
+
+GO
+
+ALTER TABLE suppliers
+ADD CONSTRAINT df_province
+DEFAULT 'BC' FOR province;
+
+GO
+
+-- PART B 1)
+
+SELECT customer_id,
+	   name,
+	   city,
+	   country
+FROM customers
+ORDER BY customer_id
+
+GO
+
+-- 2)
+AlTER TABLE customers
+ADD active bit;
+
+GO
+
+ALTER TABLE customers
+ADD CONSTRAINT df_active
+DEFAULT 1 FOR active;
+
+GO
+
+-- 3)
+
+SELECT  'order_id' = orders.order_id,
+		'product_name' = products.name,
+		'customer_name' = customers.name,
+		'order_date' = CONVERT(char(12),orders.order_date,107),
+		'new_shipped_date' =CONVERT(char(12),DATEADD(day,7,orders.shipped_date),107),
+		'order_cost' = (products.unit_price * order_details.quantity)
+
+FROM orders
+
+INNER JOIN order_details ON order_details.order_id = orders.order_id
+INNER JOIN products ON order_details.product_id = products.product_id
+INNER JOIN customers ON customers.customer_id = orders.customer_id
+
+WHERE order_date BETWEEN '2001-01-01' AND '2001-12-31';
+
+-- 4)
+
+GO
+
+SELECT customers.customer_id,
+	   customers.name,
+	   customers.phone,
+	   orders.order_id,
+	   orders.order_date
+FROM customers
+INNER JOIN orders ON orders.customer_id = customers.customer_id
+
+WHERE orders.shipped_date IS NULL
+ORDER BY customers.name
+
+GO
+
+-- 5)
+SELECT customers.customer_id,
+	   customers.name,
+	   customers.city,
+	   titles.description
+FROM customers
+
+INNER JOIN titles ON titles.title_id = customers.title_id
+
+WHERE customers.region IS NULL
+
+GO
+
+-- 6)
+SELECT 'supplier_name' = suppliers.name,
+	   'product_name' = products.name,
+	   products.reorder_level,
+	   products.quantity_in_stock
+FROM products
+
+INNER JOIN suppliers ON suppliers.supplier_id = products.supplier_id
+
+WHERE (products.reorder_level > products.quantity_in_stock)
+
+ORDER BY supplier_name
+
+GO
+
+-- 7)
+SELECT orders.order_id,
+	   customers.name,
+	   customers.contact_name,
+	   'shipped_date' = CONVERT(char(12),orders.shipped_date,107),
+	   'elapsed' = - DATEDIFF(yy, 'Jan 1 2008', orders.shipped_date)
+from orders
+
+INNER JOIN customers ON customers.customer_id = orders.customer_id
+
+WHERE shipped_date IS NOT NULL
+
+ORDER BY order_id
+
+GO
+
+-- 8)
+SELECT 'name' = SUBSTRING(customers.name, 1, 1), 
+       'total'=  COUNT(*)
+
+FROM customers
+WHERE name LIKE '[^S]%'
+
+GROUP BY SUBSTRING(customers.name,1,1)
+HAVING COUNT(*) > 2
+
+
+
+GO
+
+-- 9)
+SELECT orders.order_id,
+	   order_details.quantity,
+	   products.product_id,
+	   products.reorder_level,
+	   suppliers.supplier_id
+
+FROM orders
+
+INNER JOIN order_details ON order_details.order_id = orders.order_id
+INNER JOIN products ON products.product_id = order_details.product_id
+INNER JOIN suppliers ON suppliers.supplier_id = products.supplier_id
+
+WHERE (order_details.quantity > 100)
+
+ORDER BY order_id
+
+GO
+
+-- 10)
+SELECT products.product_id,
+	   products.name,
+	   products.quantity_per_unit,
+	   products.unit_price
+
+FROM products
+
+WHERE name LIKE '%chef%' OR name LIKE'%tofu%'
+
+ORDER BY name
+
+GO
+
+-- PART C 1)
+
+CREATE TABLE employee
+(
+
+employee_id int NOT NULL,
+
+last_name varchar(30) NOT NULL,
+
+first_name varchar(15) NOT NULL,
+
+address varchar(30),
+
+city varchar(20),
+
+province char(2),
+
+postal_code varchar(7),
+
+phone varchar(10),
+
+birth_date datetime NOT NULL
+
+);
+
+GO
+
+-- 2)
+ALTER TABLE employee 
+
+ADD PRIMARY KEY (employee_id);
+
+GO
+
+--BULK INSERT BEFORE 3)
+ALTER TABLE orders
+
+ADD CONSTRAINT FK_employee_orders FOREIGN KEY(employee_id)
+
+REFERENCES employee
+(employee_id);
+
+GO
+
+-- 4)
+INSERT INTO shippers (name)
+
+VALUES('Quick Express')
+
+GO
+
+-- 5)
+UPDATE products
+SET unit_price = unit_price*1.05
+WHERE unit_price BETWEEN 5 AND 10;
+
+
+GO
+
+-- 6)
+UPDATE customers
+SET fax = 'Unknown'
+WHERE fax IS NULL  
+
+GO
+
+-- 7)
+CREATE VIEW vw_order_cost
+(order_id,order_date,product_id,name,order_cost)
+AS
+SELECT 
+	orders.order_id,
+	orders.order_date,
+	products.product_id,
+	customers.name,
+	(order_details.quantity*products.unit_price)
+FROM orders
+INNER JOIN order_details ON  order_details.order_id  = orders.order_id
+INNER JOIN products ON products.product_id = order_details.product_id
+INNER JOIN customers ON customers.customer_id = orders.customer_id
+
+WHERE orders.order_id BETWEEN 10000 AND 10200
+
+GO
+
+SELECT *
+FROM vw_order_cost
+
+GO
+
+-- 8)
+CREATE VIEW vw_list_employees
+(employee_id,name,birth_date)
+AS
+SELECT 
+	employee.employee_id,
+	(employee.last_name+', '+employee.first_name),
+	CONVERT(char(12),employee.birth_date,102)
+
+FROM employee
+
+WHERE employee.employee_id IN ('5','7','9')
+
+GO
+
+SELECT *
+FROM vw_list_employees
+
+GO
+
+-- 9)
+CREATE VIEW vw_all_orders
+(order_id,customer_id,customer_name,city,country,shipped_date)
+AS
+SELECT 
+	orders.order_id,
+	customers.customer_id,
+	customers.name,
+	customers.city,
+	customers.country,
+	CONVERT(char(12),orders.shipped_date,107)
+
+FROM orders
+
+INNER JOIN customers ON customers.customer_id = orders.customer_id
+
+WHERE orders.shipped_date BETWEEN '2002-01-01' AND '2002-12-31'
+
+GO
+
+SELECT * 
+FROM vw_all_orders
+ORDER BY customer_name
+
+GO
+
+-- 10)
+CREATE VIEW vw_supllier_shipped
+(supplier_id,supplier_name,product_id,product_name)
+AS
+SELECT 
+	suppliers.supplier_id,
+	suppliers.name,
+	products.product_id,
+	products.name
+
+FROM products
+
+INNER JOIN suppliers ON suppliers.supplier_id = products.supplier_id
+
+
+GO
+
+SELECT *
+FROM vw_supllier_shipped
+
+GO
+
+-- PART D 1)
+CREATE PROCEDURE sp_customer_city
+(
+  @city varchar(30)
+)
+
+AS
+	SELECT
+		customers.customer_id,
+		customers.name,
+		customers.address,
+		customers.city,
+		'phone' = customers.phone
+	FROM customers
+	WHERE @city = customers.city
+
+GO
+
+EXECUTE sp_customer_city @city = 'London'
+
+GO
+
+-- 2)	
+CREATE PROCEDURE sp_order_by_dates
+(
+  @start datetime,
+  @end datetime
+)
+AS
+	SELECT 
+		'order_id'= orders.order_id,
+		'customer_id' = orders.customer_id,
+		'customer_name' = customers.name,
+		'shipper_name' = shippers.name,
+		'shipped_date' = orders.shipped_date
+
+	FROM orders
+	INNER JOIN customers ON orders.customer_id = customers.customer_id
+	INNER JOIN shippers ON shippers.shipper_id = orders.shipper_id
+
+	WHERE orders.shipped_date BETWEEN @start AND @end
+
+GO
+
+EXECUTE sp_order_by_dates @start = '2003-01-01', @end = '2003-06-30'
+
+GO
+
+-- 3)
+CREATE PROCEDURE sp_product_listing
+(
+ @product varchar(30),
+ @month varchar(14),
+ @year varchar(4)
+)
+AS
+	SELECT 
+	   'Product name' = products.name,
+	   products.unit_price,
+	   products.quantity_in_stock,
+	   'Supplier name' = suppliers.name
+	
+	FROM products
+	INNER JOIN suppliers ON suppliers.supplier_id = products.supplier_id
+	INNER JOIN order_details ON products.product_id = order_details.product_id
+	INNER JOIN orders ON orders.order_id = order_details.order_id
+
+	WHERE products.name LIKE @product
+	AND DATENAME(MONTH,order_date) = @month
+	AND DATENAME(YEAR,order_date) = @year
+
+GO
+
+EXECUTE sp_product_listing @product = 'Jack%', @month = 'June' , @year = '2001'
+
+GO
+
+-- 4)
+CREATE TRIGGER tr_order_details
+ON order_details
+AFTER DELETE
+AS
+DECLARE @prod_id int,
+		@qty_del int
+SELECT @prod_id = product_id,
+	   @qty_del = quantity
+FROM deleted
+UPDATE products
+SET quantity_in_stock = quantity_in_stock + @qty_del
+WHERE product_id = @prod_id
+
+BEGIN
+	SELECT 
+		'Product_id' = deleted.product_id,
+		'Product_name' = products.name,
+		'Quantity being deleted from order' = @qty_del,
+		'In stock quantity after deletion' = products.quantity_in_stock
+	FROM deleted
+	INNER JOIN products ON deleted.product_id = products.product_id
+END;
+
+GO
+	DELETE order_details
+     WHERE order_id=10001 AND product_id=25
+
+GO
+
+-- 5)
+CREATE TRIGGER tr_check_qty
+ON order_details
+FOR INSERT, UPDATE
+AS
+DECLARE @prod_id int
+SELECT @prod_id = product_id
+FROM inserted
+IF
+(
+	SELECT products.quantity_in_stock
+	FROM products
+	WHERE products.product_id = @prod_id
+)
+>=
+(
+	SELECT products.units_on_order
+	FROM products
+	WHERE products.product_id = @prod_id
+)
+
+	BEGIN
+		ROLLBACK TRANSACTION
+		PRINT 'Quantity in stock lower than units ordered' 
+	END;
+
+GO
+	UPDATE order_details
+	SET quantity = 30
+	WHERE order_id = '10044' AND product_id = 7
+
+GO
+
+-- 6)
+CREATE PROCEDURE sp_del_inactive_cust
+AS
+DELETE
+FROM customers
+WHERE customers.customer_id NOT IN (
+	SELECT orders.customer_id
+	FROM orders
+	)
+
+GO
+
+EXECUTE sp_del_inactive_cust
+
+
+GO
+
+-- 7)
+CREATE PROCEDURE sp_employee_information
+(
+@emp_id varchar(30)
+)
+AS 
+	SELECT
+		'employee_id' = employee.employee_id,
+		'last_name' = employee.last_name,
+		'first_name' = employee.first_name,
+		'address' = employee.address,
+		'province' = employee.province,
+		'postal_code' = employee.postal_code,
+		'phone' = employee.phone,
+		'brith_date' = employee.birth_date
+	FROM employee
+	
+	WHERE @emp_id = employee.employee_id
+
+GO
+
+EXECUTE sp_employee_information @emp_id = '5'
+
+GO
+
+-- 8)
+CREATE PROCEDURE sp_reorder_qty
+(
+@unit varchar(30)
+)
+AS
+
+	SELECT 
+		'product_id' = products.product_id,
+		'name' = suppliers.name,
+		'address' = suppliers.address,
+		'city' = suppliers.city,
+		'province' = suppliers.province,
+		'qty' = products.quantity_in_stock,
+		'reorder_leve' = products.reorder_level
+	FROM products
+	INNER JOIN suppliers ON suppliers.supplier_id = products.supplier_id
+
+	WHERE  @unit > (quantity_in_stock - reorder_level)
+
+GO
+
+EXECUTE sp_reorder_qty @unit = '5'
+
+GO
+
+-- 9)
+CREATE PROCEDURE sp_unit_prices
+(
+@unit1 decimal(10,4),
+@unit2 decimal(10,4)
+)
+
+AS
+	SELECT
+		'product_id' = products.product_id,
+		'product_name' = products.name,
+		'alternate_name' = products.alternate_name,
+		'unit_price' = products.unit_price
+	FROM  products
+	WHERE unit_price BETWEEN @unit1 AND @unit2
+
+GO
+
+EXECUTE sp_unit_prices @unit1 = 5.00, @unit2 = 10.00

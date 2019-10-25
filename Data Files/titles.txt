@@ -1,0 +1,12 @@
+100	Accounting Manager
+101	Assistant Sales Agent
+102	Assistant Sales Representative
+103	Marketing Assistant
+104	Marketing Manager
+105	Order Administrator
+106	Owner
+107	Owner/Marketing Assistant
+108	Sales Agent
+109	Sales Associate
+110	Sales Manager
+111	Sales Representative
